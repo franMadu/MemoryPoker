@@ -1,0 +1,262 @@
+﻿[
+    {
+        "File":  "clubs_10.png",
+        "RemovedOutlinePixels":  27993,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "clubs_2.png",
+        "RemovedOutlinePixels":  29538,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "clubs_3.png",
+        "RemovedOutlinePixels":  27836,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "clubs_4.png",
+        "RemovedOutlinePixels":  32001,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "clubs_5.png",
+        "RemovedOutlinePixels":  27731,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "clubs_6.png",
+        "RemovedOutlinePixels":  23403,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "clubs_7.png",
+        "RemovedOutlinePixels":  23216,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "clubs_8.png",
+        "RemovedOutlinePixels":  24917,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "clubs_9.png",
+        "RemovedOutlinePixels":  31032,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "clubs_A.png",
+        "RemovedOutlinePixels":  27163,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "clubs_J.png",
+        "RemovedOutlinePixels":  30172,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "clubs_K.png",
+        "RemovedOutlinePixels":  22240,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "clubs_Q.png",
+        "RemovedOutlinePixels":  25692,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "diamonds_10.png",
+        "RemovedOutlinePixels":  32260,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "diamonds_2.png",
+        "RemovedOutlinePixels":  30937,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "diamonds_3.png",
+        "RemovedOutlinePixels":  30383,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "diamonds_4.png",
+        "RemovedOutlinePixels":  31679,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "diamonds_5.png",
+        "RemovedOutlinePixels":  30971,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "diamonds_6.png",
+        "RemovedOutlinePixels":  23668,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "diamonds_7.png",
+        "RemovedOutlinePixels":  35944,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "diamonds_8.png",
+        "RemovedOutlinePixels":  31912,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "diamonds_9.png",
+        "RemovedOutlinePixels":  27288,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "diamonds_A.png",
+        "RemovedOutlinePixels":  32389,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "diamonds_J.png",
+        "RemovedOutlinePixels":  26986,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "diamonds_K.png",
+        "RemovedOutlinePixels":  28778,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "diamonds_Q.png",
+        "RemovedOutlinePixels":  28603,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "hearts_10.png",
+        "RemovedOutlinePixels":  29519,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "hearts_2.png",
+        "RemovedOutlinePixels":  32279,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "hearts_3.png",
+        "RemovedOutlinePixels":  36186,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "hearts_4.png",
+        "RemovedOutlinePixels":  26051,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "hearts_5.png",
+        "RemovedOutlinePixels":  28522,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "hearts_6.png",
+        "RemovedOutlinePixels":  32029,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "hearts_7.png",
+        "RemovedOutlinePixels":  28441,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "hearts_8.png",
+        "RemovedOutlinePixels":  31877,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "hearts_9.png",
+        "RemovedOutlinePixels":  29352,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "hearts_A.png",
+        "RemovedOutlinePixels":  33301,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "hearts_J.png",
+        "RemovedOutlinePixels":  20824,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "hearts_K.png",
+        "RemovedOutlinePixels":  21729,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "hearts_Q.png",
+        "RemovedOutlinePixels":  27128,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "spades_10.png",
+        "RemovedOutlinePixels":  33094,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "spades_2.png",
+        "RemovedOutlinePixels":  27007,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "spades_3.png",
+        "RemovedOutlinePixels":  29066,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "spades_4.png",
+        "RemovedOutlinePixels":  25922,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "spades_5.png",
+        "RemovedOutlinePixels":  27229,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "spades_6.png",
+        "RemovedOutlinePixels":  25131,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "spades_7.png",
+        "RemovedOutlinePixels":  26433,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "spades_8.png",
+        "RemovedOutlinePixels":  32902,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "spades_9.png",
+        "RemovedOutlinePixels":  27854,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "spades_A.png",
+        "RemovedOutlinePixels":  34809,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "spades_J.png",
+        "RemovedOutlinePixels":  22725,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "spades_K.png",
+        "RemovedOutlinePixels":  30214,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "spades_Q.png",
+        "RemovedOutlinePixels":  26573,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    }
+]

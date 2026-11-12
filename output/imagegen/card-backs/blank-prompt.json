@@ -1,0 +1,30 @@
+﻿{
+    "generator":  "Built-in image_gen",
+    "prompt":  "Use case: precise-object-edit. Image 1 is the EDIT TARGET, a navy and gold poker card back. Remove ONLY the large ivory letter A from the central circular medallion, filling its former area seamlessly with the surrounding navy blue. Keep the round gold medallion ring and every other ornament, lattice, color, border, ivory rim, black outline, size, position and framing exactly the same. The central medallion must be empty navy with NO letters, symbols or replacement illustration. Preserve opaque original white exterior; exact transparency and sizing will be applied separately. No other changes.",
+    "reference":  "originals/back_A.png",
+    "file":  "Assets/Images/PlayingCardBacks/back_blank.png",
+    "normalization":  "normalize-blank.ps1",
+    "canvas":  [
+                   1024,
+                   1536
+               ],
+    "cardBounds":  [
+                       50,
+                       75,
+                       924,
+                       1386
+                   ],
+    "exterior":  "transparent",
+    "fullBleedCorrection":  {
+                                "Script":  "remove-white-rims.ps1",
+                                "Description":  "Navy and gold artwork expanded to the entire rounded card; ivory rim removed.",
+                                "CardBounds":  [
+                                                   50,
+                                                   75,
+                                                   924,
+                                                   1386
+                                               ],
+                                "ExteriorAlpha":  0,
+                                "Report":  "full-bleed-report.json"
+                            }
+}

@@ -1,0 +1,70 @@
+﻿[
+    {
+        "File":  "back_A.png",
+        "Validation":  "Perimeter pixels changed=207962; gray pixels before=0; gray pixels after=0; alpha and central artwork identical"
+    },
+    {
+        "File":  "back_B.png",
+        "Validation":  "Perimeter pixels changed=207944; gray pixels before=0; gray pixels after=0; alpha and central artwork identical"
+    },
+    {
+        "File":  "back_blank.png",
+        "Validation":  "Perimeter pixels changed=207921; gray pixels before=0; gray pixels after=0; alpha and central artwork identical"
+    },
+    {
+        "File":  "back_C.png",
+        "Validation":  "Perimeter pixels changed=207926; gray pixels before=0; gray pixels after=0; alpha and central artwork identical"
+    },
+    {
+        "File":  "back_D.png",
+        "Validation":  "Perimeter pixels changed=207930; gray pixels before=0; gray pixels after=0; alpha and central artwork identical"
+    },
+    {
+        "File":  "back_E.png",
+        "Validation":  "Perimeter pixels changed=207916; gray pixels before=0; gray pixels after=0; alpha and central artwork identical"
+    },
+    {
+        "File":  "back_F.png",
+        "Validation":  "Perimeter pixels changed=207810; gray pixels before=0; gray pixels after=0; alpha and central artwork identical"
+    },
+    {
+        "File":  "back_G.png",
+        "Validation":  "Perimeter pixels changed=207913; gray pixels before=0; gray pixels after=0; alpha and central artwork identical"
+    },
+    {
+        "File":  "back_H.png",
+        "Validation":  "Perimeter pixels changed=207920; gray pixels before=0; gray pixels after=0; alpha and central artwork identical"
+    },
+    {
+        "File":  "back_I.png",
+        "Validation":  "Perimeter pixels changed=207893; gray pixels before=0; gray pixels after=0; alpha and central artwork identical"
+    },
+    {
+        "File":  "back_J.png",
+        "Validation":  "Perimeter pixels changed=207958; gray pixels before=1; gray pixels after=0; alpha and central artwork identical"
+    },
+    {
+        "File":  "back_K.png",
+        "Validation":  "Perimeter pixels changed=207852; gray pixels before=0; gray pixels after=0; alpha and central artwork identical"
+    },
+    {
+        "File":  "back_L.png",
+        "Validation":  "Perimeter pixels changed=207956; gray pixels before=0; gray pixels after=0; alpha and central artwork identical"
+    },
+    {
+        "File":  "back_M.png",
+        "Validation":  "Perimeter pixels changed=207900; gray pixels before=0; gray pixels after=0; alpha and central artwork identical"
+    },
+    {
+        "File":  "back_N.png",
+        "Validation":  "Perimeter pixels changed=207963; gray pixels before=3; gray pixels after=0; alpha and central artwork identical"
+    },
+    {
+        "File":  "back_O.png",
+        "Validation":  "Perimeter pixels changed=207879; gray pixels before=0; gray pixels after=0; alpha and central artwork identical"
+    },
+    {
+        "File":  "back_P.png",
+        "Validation":  "Perimeter pixels changed=207945; gray pixels before=0; gray pixels after=0; alpha and central artwork identical"
+    }
+]

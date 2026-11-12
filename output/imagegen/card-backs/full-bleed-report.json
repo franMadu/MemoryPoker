@@ -1,0 +1,189 @@
+﻿[
+    {
+        "File":  "back_A.png",
+        "PrintedPanelCrop":  [
+                                 97,
+                                 130,
+                                 926,
+                                 1406
+                             ],
+        "WhiteEdgePixels":  0,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=0"
+    },
+    {
+        "File":  "back_B.png",
+        "PrintedPanelCrop":  [
+                                 97,
+                                 130,
+                                 926,
+                                 1406
+                             ],
+        "WhiteEdgePixels":  0,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=0"
+    },
+    {
+        "File":  "back_blank.png",
+        "PrintedPanelCrop":  [
+                                 97,
+                                 130,
+                                 926,
+                                 1406
+                             ],
+        "WhiteEdgePixels":  0,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=0"
+    },
+    {
+        "File":  "back_C.png",
+        "PrintedPanelCrop":  [
+                                 97,
+                                 130,
+                                 926,
+                                 1406
+                             ],
+        "WhiteEdgePixels":  0,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=0"
+    },
+    {
+        "File":  "back_D.png",
+        "PrintedPanelCrop":  [
+                                 97,
+                                 130,
+                                 926,
+                                 1406
+                             ],
+        "WhiteEdgePixels":  0,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=0"
+    },
+    {
+        "File":  "back_E.png",
+        "PrintedPanelCrop":  [
+                                 97,
+                                 130,
+                                 926,
+                                 1406
+                             ],
+        "WhiteEdgePixels":  0,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=0"
+    },
+    {
+        "File":  "back_F.png",
+        "PrintedPanelCrop":  [
+                                 97,
+                                 130,
+                                 926,
+                                 1406
+                             ],
+        "WhiteEdgePixels":  0,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=0"
+    },
+    {
+        "File":  "back_G.png",
+        "PrintedPanelCrop":  [
+                                 97,
+                                 130,
+                                 926,
+                                 1406
+                             ],
+        "WhiteEdgePixels":  0,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=0"
+    },
+    {
+        "File":  "back_H.png",
+        "PrintedPanelCrop":  [
+                                 97,
+                                 130,
+                                 926,
+                                 1406
+                             ],
+        "WhiteEdgePixels":  0,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=0"
+    },
+    {
+        "File":  "back_I.png",
+        "PrintedPanelCrop":  [
+                                 97,
+                                 130,
+                                 926,
+                                 1406
+                             ],
+        "WhiteEdgePixels":  0,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=0"
+    },
+    {
+        "File":  "back_J.png",
+        "PrintedPanelCrop":  [
+                                 98,
+                                 131,
+                                 926,
+                                 1406
+                             ],
+        "WhiteEdgePixels":  0,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=0"
+    },
+    {
+        "File":  "back_K.png",
+        "PrintedPanelCrop":  [
+                                 97,
+                                 130,
+                                 926,
+                                 1406
+                             ],
+        "WhiteEdgePixels":  0,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=0"
+    },
+    {
+        "File":  "back_L.png",
+        "PrintedPanelCrop":  [
+                                 97,
+                                 130,
+                                 926,
+                                 1406
+                             ],
+        "WhiteEdgePixels":  0,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=0"
+    },
+    {
+        "File":  "back_M.png",
+        "PrintedPanelCrop":  [
+                                 97,
+                                 130,
+                                 926,
+                                 1406
+                             ],
+        "WhiteEdgePixels":  0,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=0"
+    },
+    {
+        "File":  "back_N.png",
+        "PrintedPanelCrop":  [
+                                 98,
+                                 130,
+                                 926,
+                                 1406
+                             ],
+        "WhiteEdgePixels":  0,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=0"
+    },
+    {
+        "File":  "back_O.png",
+        "PrintedPanelCrop":  [
+                                 97,
+                                 130,
+                                 926,
+                                 1406
+                             ],
+        "WhiteEdgePixels":  0,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=0"
+    },
+    {
+        "File":  "back_P.png",
+        "PrintedPanelCrop":  [
+                                 97,
+                                 128,
+                                 926,
+                                 1406
+                             ],
+        "WhiteEdgePixels":  0,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=0"
+    }
+]

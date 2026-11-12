@@ -1,0 +1,335 @@
+﻿{
+    "generator":  "Built-in image_gen",
+    "cardCount":  52,
+    "description":  "52 French poker card faces, no jokers. Normalized to identical centered rounded cards with transparent exteriors and opaque white faces.",
+    "cards":  [
+                  {
+                      "file":  "Assets/Images/PlayingCards/spades_A.png",
+                      "suit":  "spades",
+                      "rank":  "A",
+                      "prompt":  "Use case: stylized-concept. Asset type: individual French poker playing card sprite for Unity. Generate exactly ONE card: ACE OF SPADES (A). Classic elegant casino deck design, crisp flat printed vector-like illustration, white opaque rounded rectangular card, thin dark border, portrait 2:3 aspect ratio, straight front view with no perspective or shadow. Card occupies 94% of canvas height, centered with uniform transparent margins. Black spades. Exact indices A above a small spade in top left; same index rotated 180 degrees in bottom right. Exactly one large beautiful black spade in center. White paper face must be opaque; only outside rounded card transparent. No other cards, no background scene, no watermark."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/spades_2.png",
+                      "suit":  "spades",
+                      "rank":  "2",
+                      "prompt":  "Use case: stylized-concept. Asset type: individual French poker playing card sprite for Unity. Generate exactly ONE card: 2 OF SPADES. Classic elegant casino deck, crisp flat printed illustration, opaque white rounded rectangular card with thin black border. Portrait canvas 1024x1536, front orthographic view, card spans x=50 to 974 and y=74 to 1462. Uniform transparent margins outside card. No shadows, texture or gradients. Black suit symbols and indices. Exact text \"2\" above small spades symbol in top left; same index and symbol rotated 180 degrees in bottom right. Central face: exactly 2 large spades suit symbols in traditional symmetric poker pip arrangement; exclude corner indices from this count. The card must match a classic white casino deck with large serif corner ranks. White card opaque, outside truly transparent. Only one card, no watermark."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/spades_3.png",
+                      "suit":  "spades",
+                      "rank":  "3",
+                      "prompt":  "Use case: stylized-concept. Generate one production-ready French poker card: 3 OF SPADES. Classic casino deck, flat crisp printed art on PURE SOLID OPAQUE WHITE PAPER. Full portrait canvas 1024x1536 with pure white opaque background everywhere, absolutely NO TRANSPARENCY ANYWHERE. Thin black rounded card outline rectangle at x50,y74 to x974,y1462. Orthographic flat front view. Large serif \"3\" top left in black, small black spades beneath; matching index rotated 180 degrees bottom right. Central area has precisely THREE symbols in one vertical column, all black spades, matching traditional French suit shapes. The corner indices DO NOT count as central pips. Central pips distributed evenly between y320 and y1200, with comfortable margins. White opaque paper between every symbol. No gray halos, no black smudges, no mist, no cutouts, no shading, no shadows, no gradients, no texture. No other cards or text. Solid clean WHITE background and WHITE card face, both completely opaque."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/spades_4.png",
+                      "suit":  "spades",
+                      "rank":  "4",
+                      "prompt":  "Use case: stylized-concept. Asset type: individual French poker playing card sprite for Unity. Generate exactly ONE card: 4 OF SPADES. Classic elegant casino deck, crisp flat printed illustration, opaque white rounded rectangular card with thin black border. Portrait canvas 1024x1536, front orthographic view, card spans x=50 to 974 and y=74 to 1462. Uniform transparent margins outside card. No shadows, texture or gradients. Black suit symbols and indices. Exact text \"4\" above small spades symbol in top left; same index and symbol rotated 180 degrees in bottom right. Central face: exactly 4 large spades suit symbols in traditional symmetric poker pip arrangement; exclude corner indices from this count. The card must match a classic white casino deck with large serif corner ranks. White card opaque, outside truly transparent. Only one card, no watermark."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/spades_5.png",
+                      "suit":  "spades",
+                      "rank":  "5",
+                      "prompt":  "Use case: stylized-concept. Generate one production-ready French poker card: 5 OF SPADES. Classic casino deck, flat crisp printed art on PURE SOLID OPAQUE WHITE PAPER. Full portrait canvas 1024x1536 with pure white opaque background everywhere, absolutely NO TRANSPARENCY ANYWHERE. Thin black rounded card outline rectangle at x50,y74 to x974,y1462. Orthographic flat front view. Large serif \"5\" top left in black, small black spades beneath; matching index rotated 180 degrees bottom right. Central area has precisely FIVE symbols: four at rectangle corners and one in center, all black spades, matching traditional French suit shapes. The corner indices DO NOT count as central pips. Central pips distributed evenly between y320 and y1200, with comfortable margins. White opaque paper between every symbol. No gray halos, no black smudges, no mist, no cutouts, no shading, no shadows, no gradients, no texture. No other cards or text. Solid clean WHITE background and WHITE card face, both completely opaque."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/spades_6.png",
+                      "suit":  "spades",
+                      "rank":  "6",
+                      "prompt":  "Use case: stylized-concept. Asset type: ONE individual French poker card sprite for Unity. Subject: 6 OF SPADES. A consistent classic casino deck design. Clean flat printed illustration, solid white opaque paper face, thin black rounded outline. Portrait 1024x1536 canvas. Card rectangle positioned x=50 to 974, y=74 to 1462, rounded corners, uniform genuinely transparent exterior. Straight orthographic front view. Black serif rank lettering for black suits, red for red suits. Exact rank text \"6\" in large serif type at upper left with a small black spades symbol directly beneath. Duplicate corner index rotated 180 degrees at lower right. Exactly 6 large black spades symbols in the central face in traditional symmetric poker pip arrangement. Count precisely: 6 central pips, not counting the two small corner symbols. All pips must be spades, consistently black. White card face stays opaque. Avoid perspective, shadows, gray backgrounds, texture, gradients, watermarks, extra cards, additional text."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/spades_J.png",
+                      "suit":  "spades",
+                      "rank":  "J",
+                      "prompt":  "Use case: stylized-concept. Asset type: ONE individual French poker card sprite for Unity. Subject: J OF SPADES. A consistent classic casino deck design. Clean flat printed illustration, solid white opaque paper face, thin black rounded outline. Portrait 1024x1536 canvas. Card rectangle positioned x=50 to 974, y=74 to 1462, rounded corners, uniform genuinely transparent exterior. Straight orthographic front view. Black serif rank lettering for black suits, red for red suits. Exact rank text \"J\" in large serif type at upper left with a small black spades symbol directly beneath. Duplicate corner index rotated 180 degrees at lower right. Central traditional double-headed Jack, a young male court attendant, mirrored at the waist under 180-degree rotation. Elegant classic French casino court illustration in red, navy, gold, white and black, holding a ceremonial staff. Include black spades symbols in the court artwork. Correct J indices; no other letters. All pips must be spades, consistently black. White card face stays opaque. Avoid perspective, shadows, gray backgrounds, texture, gradients, watermarks, extra cards, additional text."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/spades_7.png",
+                      "suit":  "spades",
+                      "rank":  "7",
+                      "prompt":  "Use case: stylized-concept. Asset type: ONE individual French poker card sprite for Unity. Subject: 7 OF SPADES. A consistent classic casino deck design. Clean flat printed illustration, solid white opaque paper face, thin black rounded outline. Portrait 1024x1536 canvas. Card rectangle positioned x=50 to 974, y=74 to 1462, rounded corners, uniform genuinely transparent exterior. Straight orthographic front view. Black serif rank lettering for black suits, red for red suits. Exact rank text \"7\" in large serif type at upper left with a small black spades symbol directly beneath. Duplicate corner index rotated 180 degrees at lower right. Exactly 7 large black spades symbols in the central face in traditional symmetric poker pip arrangement. Count precisely: 7 central pips, not counting the two small corner symbols. All pips must be spades, consistently black. White card face stays opaque. Avoid perspective, shadows, gray backgrounds, texture, gradients, watermarks, extra cards, additional text."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/spades_8.png",
+                      "suit":  "spades",
+                      "rank":  "8",
+                      "prompt":  "Use case: stylized-concept. Asset type: ONE individual French poker card sprite for Unity. Subject: 8 OF SPADES. A consistent classic casino deck design. Clean flat printed illustration, solid white opaque paper face, thin black rounded outline. Portrait 1024x1536 canvas. Card rectangle positioned x=50 to 974, y=74 to 1462, rounded corners, uniform genuinely transparent exterior. Straight orthographic front view. Black serif rank lettering for black suits, red for red suits. Exact rank text \"8\" in large serif type at upper left with a small black spades symbol directly beneath. Duplicate corner index rotated 180 degrees at lower right. Exactly 8 large black spades symbols in the central face in traditional symmetric poker pip arrangement. Count precisely: 8 central pips, not counting the two small corner symbols. All pips must be spades, consistently black. White card face stays opaque. Avoid perspective, shadows, gray backgrounds, texture, gradients, watermarks, extra cards, additional text."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/spades_10.png",
+                      "suit":  "spades",
+                      "rank":  "10",
+                      "prompt":  "Use case: stylized-concept. One individual French poker playing card: TEN OF SPADES. Portrait 1024x1536. Opaque pure white card on opaque white background, thin black rounded rectangular outline at x50 y74 to x974 y1462. Flat clean casino printing, no shadows or gradients or transparency. Top left exact serif rank \"10\" with small black spades underneath. Bottom right identical rotated index. CENTRAL PIPS: precisely TEN BLACK SPADES symbols. Layout: left column FOUR symbols at y360,600,900,1140. Right column FOUR symbols at same heights. Middle column TWO extra symbols at y480 and1050. Total 4+4+2=10 large pips excluding two tiny index symbols. All black spades. White opaque space between all pips. No extra symbols. Count must be exactly ten central pips. No smudges."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/spades_9.png",
+                      "suit":  "spades",
+                      "rank":  "9",
+                      "prompt":  "Use case: stylized-concept. Asset type: ONE individual French poker card sprite for Unity. Subject: 9 OF SPADES. A consistent classic casino deck design. Clean flat printed illustration, solid white opaque paper face, thin black rounded outline. Portrait 1024x1536 canvas. Card rectangle positioned x=50 to 974, y=74 to 1462, rounded corners, uniform genuinely transparent exterior. Straight orthographic front view. Black serif rank lettering for black suits, red for red suits. Exact rank text \"9\" in large serif type at upper left with a small black spades symbol directly beneath. Duplicate corner index rotated 180 degrees at lower right. Exactly 9 large black spades symbols in the central face in traditional symmetric poker pip arrangement. Count precisely: 9 central pips, not counting the two small corner symbols. All pips must be spades, consistently black. White card face stays opaque. Avoid perspective, shadows, gray backgrounds, texture, gradients, watermarks, extra cards, additional text."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/spades_Q.png",
+                      "suit":  "spades",
+                      "rank":  "Q",
+                      "prompt":  "Use case: stylized-concept. Asset type: ONE individual French poker card sprite for Unity. Subject: Q OF SPADES. A consistent classic casino deck design. Clean flat printed illustration, solid white opaque paper face, thin black rounded outline. Portrait 1024x1536 canvas. Card rectangle positioned x=50 to 974, y=74 to 1462, rounded corners, uniform genuinely transparent exterior. Straight orthographic front view. Black serif rank lettering for black suits, red for red suits. Exact rank text \"Q\" in large serif type at upper left with a small black spades symbol directly beneath. Duplicate corner index rotated 180 degrees at lower right. Central traditional double-headed Queen with crown, mirrored at the waist under 180-degree rotation. Elegant classic French casino court illustration in red, navy, gold, white and black, holding a flower. Include black spades symbols in the court artwork. Correct Q indices; no other letters. All pips must be spades, consistently black. White card face stays opaque. Avoid perspective, shadows, gray backgrounds, texture, gradients, watermarks, extra cards, additional text."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/hearts_5.png",
+                      "suit":  "hearts",
+                      "rank":  "5",
+                      "prompt":  "Use case: stylized-concept. Generate one production-ready French poker card: 5 OF HEARTS. Classic casino deck, flat crisp printed art on PURE SOLID OPAQUE WHITE PAPER. Full portrait canvas 1024x1536 with pure white opaque background everywhere, absolutely NO TRANSPARENCY ANYWHERE. Thin black rounded card outline rectangle at x50,y74 to x974,y1462. Orthographic flat front view. Large serif \"5\" top left in red, small red hearts beneath; matching index rotated 180 degrees bottom right. Central area has precisely FIVE symbols: four at rectangle corners and one in center, all red hearts, matching traditional French suit shapes. The corner indices DO NOT count as central pips. Central pips distributed evenly between y320 and y1200, with comfortable margins. White opaque paper between every symbol. No gray halos, no black smudges, no mist, no cutouts, no shading, no shadows, no gradients, no texture. No other cards or text. Solid clean WHITE background and WHITE card face, both completely opaque."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/spades_K.png",
+                      "suit":  "spades",
+                      "rank":  "K",
+                      "prompt":  "Use case: stylized-concept. Asset type: ONE individual French poker card sprite for Unity. Subject: K OF SPADES. A consistent classic casino deck design. Clean flat printed illustration, solid white opaque paper face, thin black rounded outline. Portrait 1024x1536 canvas. Card rectangle positioned x=50 to 974, y=74 to 1462, rounded corners, uniform genuinely transparent exterior. Straight orthographic front view. Black serif rank lettering for black suits, red for red suits. Exact rank text \"K\" in large serif type at upper left with a small black spades symbol directly beneath. Duplicate corner index rotated 180 degrees at lower right. Central traditional double-headed King with crown, mirrored at the waist under 180-degree rotation. Elegant classic French casino court illustration in red, navy, gold, white and black, holding a sword. Include black spades symbols in the court artwork. Correct K indices; no other letters. All pips must be spades, consistently black. White card face stays opaque. Avoid perspective, shadows, gray backgrounds, texture, gradients, watermarks, extra cards, additional text."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/hearts_6.png",
+                      "suit":  "hearts",
+                      "rank":  "6",
+                      "prompt":  "Use case: stylized-concept. Generate one production-ready French poker card: 6 OF HEARTS. Classic casino deck, flat crisp printed art on PURE SOLID OPAQUE WHITE PAPER. Full portrait canvas 1024x1536 with pure white opaque background everywhere, absolutely NO TRANSPARENCY ANYWHERE. Thin black rounded card outline rectangle at x50,y74 to x974,y1462. Orthographic flat front view. Large serif \"6\" top left in red, small red hearts beneath; matching index rotated 180 degrees bottom right. Central area has precisely SIX symbols in two columns of three, all red hearts, matching traditional French suit shapes. The corner indices DO NOT count as central pips. Central pips distributed evenly between y320 and y1200, with comfortable margins. White opaque paper between every symbol. No gray halos, no black smudges, no mist, no cutouts, no shading, no shadows, no gradients, no texture. No other cards or text. Solid clean WHITE background and WHITE card face, both completely opaque."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/hearts_A.png",
+                      "suit":  "hearts",
+                      "rank":  "A",
+                      "prompt":  "Use case: stylized-concept. Asset type: ONE individual French poker card sprite for Unity. Subject: A OF HEARTS. A consistent classic casino deck design. Clean flat printed illustration, solid white opaque paper face, thin black rounded outline. Portrait 1024x1536 canvas. Card rectangle positioned x=50 to 974, y=74 to 1462, rounded corners, uniform genuinely transparent exterior. Straight orthographic front view. Black serif rank lettering for black suits, red for red suits. Exact rank text \"A\" in large serif type at upper left with a small red hearts symbol directly beneath. Duplicate corner index rotated 180 degrees at lower right. Exactly one large red hearts symbol centered on the face. All pips must be hearts, consistently red. White card face stays opaque. Avoid perspective, shadows, gray backgrounds, texture, gradients, watermarks, extra cards, additional text."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/hearts_2.png",
+                      "suit":  "hearts",
+                      "rank":  "2",
+                      "prompt":  "Use case: stylized-concept. Generate one production-ready French poker card: 2 OF HEARTS. Classic casino deck, flat crisp printed art on PURE SOLID OPAQUE WHITE PAPER. Full portrait canvas 1024x1536 with pure white opaque background everywhere, absolutely NO TRANSPARENCY ANYWHERE. Thin black rounded card outline rectangle at x50,y74 to x974,y1462. Orthographic flat front view. Large serif \"2\" top left in red, small red hearts beneath; matching index rotated 180 degrees bottom right. Central area has precisely TWO symbols vertically, one near top and one near bottom, all red hearts, matching traditional French suit shapes. The corner indices DO NOT count as central pips. Central pips distributed evenly between y320 and y1200, with comfortable margins. White opaque paper between every symbol. No gray halos, no black smudges, no mist, no cutouts, no shading, no shadows, no gradients, no texture. No other cards or text. Solid clean WHITE background and WHITE card face, both completely opaque."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/hearts_7.png",
+                      "suit":  "hearts",
+                      "rank":  "7",
+                      "prompt":  "Use case: stylized-concept. Asset type: ONE individual French poker card sprite for Unity. Subject: 7 OF HEARTS. A consistent classic casino deck design. Clean flat printed illustration, solid white opaque paper face, thin black rounded outline. Portrait 1024x1536 canvas. Card rectangle positioned x=50 to 974, y=74 to 1462, rounded corners, uniform genuinely transparent exterior. Straight orthographic front view. Black serif rank lettering for black suits, red for red suits. Exact rank text \"7\" in large serif type at upper left with a small red hearts symbol directly beneath. Duplicate corner index rotated 180 degrees at lower right. Exactly 7 large red hearts symbols in the central face in traditional symmetric poker pip arrangement. Count precisely: 7 central pips, not counting the two small corner symbols. All pips must be hearts, consistently red. White card face stays opaque. Avoid perspective, shadows, gray backgrounds, texture, gradients, watermarks, extra cards, additional text."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/hearts_10.png",
+                      "suit":  "hearts",
+                      "rank":  "10",
+                      "prompt":  "Use case: stylized-concept. Generate one production-ready French poker card: 10 OF HEARTS. Classic casino deck, flat crisp printed art on PURE SOLID OPAQUE WHITE PAPER. Full portrait canvas 1024x1536 with pure white opaque background everywhere, absolutely NO TRANSPARENCY ANYWHERE. Thin black rounded card outline rectangle at x50,y74 to x974,y1462. Orthographic flat front view. Large serif \"10\" top left in red, small red hearts beneath; matching index rotated 180 degrees bottom right. Central area has precisely TEN symbols: two columns of FOUR (eight total) plus TWO extra symbols on central vertical axis, all red hearts, matching traditional French suit shapes. The corner indices DO NOT count as central pips. Central pips distributed evenly between y320 and y1200, with comfortable margins. White opaque paper between every symbol. No gray halos, no black smudges, no mist, no cutouts, no shading, no shadows, no gradients, no texture. No other cards or text. Solid clean WHITE background and WHITE card face, both completely opaque."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/hearts_9.png",
+                      "suit":  "hearts",
+                      "rank":  "9",
+                      "prompt":  "Use case: stylized-concept. Generate one production-ready French poker card: 9 OF HEARTS. Classic casino deck, flat crisp printed art on PURE SOLID OPAQUE WHITE PAPER. Full portrait canvas 1024x1536 with pure white opaque background everywhere, absolutely NO TRANSPARENCY ANYWHERE. Thin black rounded card outline rectangle at x50,y74 to x974,y1462. Orthographic flat front view. Large serif \"9\" top left in red, small red hearts beneath; matching index rotated 180 degrees bottom right. Central area has precisely NINE symbols: two columns of FOUR (eight total), plus ONE extra pip at exact center, all red hearts, matching traditional French suit shapes. The corner indices DO NOT count as central pips. Central pips distributed evenly between y320 and y1200, with comfortable margins. White opaque paper between every symbol. No gray halos, no black smudges, no mist, no cutouts, no shading, no shadows, no gradients, no texture. No other cards or text. Solid clean WHITE background and WHITE card face, both completely opaque."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/hearts_J.png",
+                      "suit":  "hearts",
+                      "rank":  "J",
+                      "prompt":  "Use case: stylized-concept. Asset type: ONE individual French poker card sprite for Unity. Subject: J OF HEARTS. A consistent classic casino deck design. Clean flat printed illustration, solid white opaque paper face, thin black rounded outline. Portrait 1024x1536 canvas. Card rectangle positioned x=50 to 974, y=74 to 1462, rounded corners, uniform genuinely transparent exterior. Straight orthographic front view. Black serif rank lettering for black suits, red for red suits. Exact rank text \"J\" in large serif type at upper left with a small red hearts symbol directly beneath. Duplicate corner index rotated 180 degrees at lower right. Central traditional double-headed Jack, a young male court attendant, mirrored at the waist under 180-degree rotation. Elegant classic French casino court illustration in red, navy, gold, white and black, holding a ceremonial staff. Include red hearts symbols in the court artwork. Correct J indices; no other letters. All pips must be hearts, consistently red. White card face stays opaque. Avoid perspective, shadows, gray backgrounds, texture, gradients, watermarks, extra cards, additional text."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/hearts_3.png",
+                      "suit":  "hearts",
+                      "rank":  "3",
+                      "prompt":  "Use case: stylized-concept. Generate one production-ready French poker card: 3 OF HEARTS. Classic casino deck, flat crisp printed art on PURE SOLID OPAQUE WHITE PAPER. Full portrait canvas 1024x1536 with pure white opaque background everywhere, absolutely NO TRANSPARENCY ANYWHERE. Thin black rounded card outline rectangle at x50,y74 to x974,y1462. Orthographic flat front view. Large serif \"3\" top left in red, small red hearts beneath; matching index rotated 180 degrees bottom right. Central area has precisely THREE symbols in one vertical column, all red hearts, matching traditional French suit shapes. The corner indices DO NOT count as central pips. Central pips distributed evenly between y320 and y1200, with comfortable margins. White opaque paper between every symbol. No gray halos, no black smudges, no mist, no cutouts, no shading, no shadows, no gradients, no texture. No other cards or text. Solid clean WHITE background and WHITE card face, both completely opaque."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/hearts_8.png",
+                      "suit":  "hearts",
+                      "rank":  "8",
+                      "prompt":  "Use case: stylized-concept. Generate one production-ready French poker card: 8 OF HEARTS. Classic casino deck, flat crisp printed art on PURE SOLID OPAQUE WHITE PAPER. Full portrait canvas 1024x1536 with pure white opaque background everywhere, absolutely NO TRANSPARENCY ANYWHERE. Thin black rounded card outline rectangle at x50,y74 to x974,y1462. Orthographic flat front view. Large serif \"8\" top left in red, small red hearts beneath; matching index rotated 180 degrees bottom right. Central area has precisely EIGHT symbols in two columns of four, all red hearts, matching traditional French suit shapes. The corner indices DO NOT count as central pips. Central pips distributed evenly between y320 and y1200, with comfortable margins. White opaque paper between every symbol. No gray halos, no black smudges, no mist, no cutouts, no shading, no shadows, no gradients, no texture. No other cards or text. Solid clean WHITE background and WHITE card face, both completely opaque."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/hearts_K.png",
+                      "suit":  "hearts",
+                      "rank":  "K",
+                      "prompt":  "Use case: stylized-concept. Asset type: ONE individual French poker card sprite for Unity. Subject: K OF HEARTS. A consistent classic casino deck design. Clean flat printed illustration, solid white opaque paper face, thin black rounded outline. Portrait 1024x1536 canvas. Card rectangle positioned x=50 to 974, y=74 to 1462, rounded corners, uniform genuinely transparent exterior. Straight orthographic front view. Black serif rank lettering for black suits, red for red suits. Exact rank text \"K\" in large serif type at upper left with a small red hearts symbol directly beneath. Duplicate corner index rotated 180 degrees at lower right. Central traditional double-headed King with crown, mirrored at the waist under 180-degree rotation. Elegant classic French casino court illustration in red, navy, gold, white and black, holding a sword. Include red hearts symbols in the court artwork. Correct K indices; no other letters. All pips must be hearts, consistently red. White card face stays opaque. Avoid perspective, shadows, gray backgrounds, texture, gradients, watermarks, extra cards, additional text."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/diamonds_4.png",
+                      "suit":  "diamonds",
+                      "rank":  "4",
+                      "prompt":  "Use case: stylized-concept. Generate one production-ready French poker card: 4 OF DIAMONDS. Classic casino deck, flat crisp printed art on PURE SOLID OPAQUE WHITE PAPER. Full portrait canvas 1024x1536 with pure white opaque background everywhere, absolutely NO TRANSPARENCY ANYWHERE. Thin black rounded card outline rectangle at x50,y74 to x974,y1462. Orthographic flat front view. Large serif \"4\" top left in red, small red diamonds beneath; matching index rotated 180 degrees bottom right. Central area has precisely FOUR symbols at corners of an imaginary rectangle, all red diamonds, matching traditional French suit shapes. The corner indices DO NOT count as central pips. Central pips distributed evenly between y320 and y1200, with comfortable margins. White opaque paper between every symbol. No gray halos, no black smudges, no mist, no cutouts, no shading, no shadows, no gradients, no texture. No other cards or text. Solid clean WHITE background and WHITE card face, both completely opaque."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/diamonds_A.png",
+                      "suit":  "diamonds",
+                      "rank":  "A",
+                      "prompt":  "Use case: stylized-concept. Generate one production-ready French poker card: A OF DIAMONDS. Classic casino deck, flat crisp printed art on PURE SOLID OPAQUE WHITE PAPER. Full portrait canvas 1024x1536 with pure white opaque background everywhere, absolutely NO TRANSPARENCY ANYWHERE. Thin black rounded card outline rectangle at x50,y74 to x974,y1462. Orthographic flat front view. Large serif \"A\" top left in red, small red diamonds beneath; matching index rotated 180 degrees bottom right. Central area has precisely ONE large central symbol, all red diamonds, matching traditional French suit shapes. The corner indices DO NOT count as central pips. Central pips distributed evenly between y320 and y1200, with comfortable margins. White opaque paper between every symbol. No gray halos, no black smudges, no mist, no cutouts, no shading, no shadows, no gradients, no texture. No other cards or text. Solid clean WHITE background and WHITE card face, both completely opaque."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/diamonds_5.png",
+                      "suit":  "diamonds",
+                      "rank":  "5",
+                      "prompt":  "Use case: stylized-concept. Generate one production-ready French poker card: 5 OF DIAMONDS. Classic casino deck, flat crisp printed art on PURE SOLID OPAQUE WHITE PAPER. Full portrait canvas 1024x1536 with pure white opaque background everywhere, absolutely NO TRANSPARENCY ANYWHERE. Thin black rounded card outline rectangle at x50,y74 to x974,y1462. Orthographic flat front view. Large serif \"5\" top left in red, small red diamonds beneath; matching index rotated 180 degrees bottom right. Central area has precisely FIVE symbols: four at rectangle corners and one in center, all red diamonds, matching traditional French suit shapes. The corner indices DO NOT count as central pips. Central pips distributed evenly between y320 and y1200, with comfortable margins. White opaque paper between every symbol. No gray halos, no black smudges, no mist, no cutouts, no shading, no shadows, no gradients, no texture. No other cards or text. Solid clean WHITE background and WHITE card face, both completely opaque."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/diamonds_2.png",
+                      "suit":  "diamonds",
+                      "rank":  "2",
+                      "prompt":  "Use case: stylized-concept. Generate one production-ready French poker card: 2 OF DIAMONDS. Classic casino deck, flat crisp printed art on PURE SOLID OPAQUE WHITE PAPER. Full portrait canvas 1024x1536 with pure white opaque background everywhere, absolutely NO TRANSPARENCY ANYWHERE. Thin black rounded card outline rectangle at x50,y74 to x974,y1462. Orthographic flat front view. Large serif \"2\" top left in red, small red diamonds beneath; matching index rotated 180 degrees bottom right. Central area has precisely TWO symbols vertically, one near top and one near bottom, all red diamonds, matching traditional French suit shapes. The corner indices DO NOT count as central pips. Central pips distributed evenly between y320 and y1200, with comfortable margins. White opaque paper between every symbol. No gray halos, no black smudges, no mist, no cutouts, no shading, no shadows, no gradients, no texture. No other cards or text. Solid clean WHITE background and WHITE card face, both completely opaque."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/diamonds_6.png",
+                      "suit":  "diamonds",
+                      "rank":  "6",
+                      "prompt":  "Use case: stylized-concept. Generate one production-ready French poker card: 6 OF DIAMONDS. Classic casino deck, flat crisp printed art on PURE SOLID OPAQUE WHITE PAPER. Full portrait canvas 1024x1536 with pure white opaque background everywhere, absolutely NO TRANSPARENCY ANYWHERE. Thin black rounded card outline rectangle at x50,y74 to x974,y1462. Orthographic flat front view. Large serif \"6\" top left in red, small red diamonds beneath; matching index rotated 180 degrees bottom right. Central area has precisely SIX symbols in two columns of three, all red diamonds, matching traditional French suit shapes. The corner indices DO NOT count as central pips. Central pips distributed evenly between y320 and y1200, with comfortable margins. White opaque paper between every symbol. No gray halos, no black smudges, no mist, no cutouts, no shading, no shadows, no gradients, no texture. No other cards or text. Solid clean WHITE background and WHITE card face, both completely opaque."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/hearts_4.png",
+                      "suit":  "hearts",
+                      "rank":  "4",
+                      "prompt":  "Use case: stylized-concept. Generate one production-ready French poker card: 4 OF HEARTS. Classic casino deck, flat crisp printed art on PURE SOLID OPAQUE WHITE PAPER. Full portrait canvas 1024x1536 with pure white opaque background everywhere, absolutely NO TRANSPARENCY ANYWHERE. Thin black rounded card outline rectangle at x50,y74 to x974,y1462. Orthographic flat front view. Large serif \"4\" top left in red, small red hearts beneath; matching index rotated 180 degrees bottom right. Central area has precisely FOUR symbols at corners of an imaginary rectangle, all red hearts, matching traditional French suit shapes. The corner indices DO NOT count as central pips. Central pips distributed evenly between y320 and y1200, with comfortable margins. White opaque paper between every symbol. No gray halos, no black smudges, no mist, no cutouts, no shading, no shadows, no gradients, no texture. No other cards or text. Solid clean WHITE background and WHITE card face, both completely opaque."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/hearts_Q.png",
+                      "suit":  "hearts",
+                      "rank":  "Q",
+                      "prompt":  "Use case: stylized-concept. Asset type: ONE individual French poker card sprite for Unity. Subject: Q OF HEARTS. A consistent classic casino deck design. Clean flat printed illustration, solid white opaque paper face, thin black rounded outline. Portrait 1024x1536 canvas. Card rectangle positioned x=50 to 974, y=74 to 1462, rounded corners, uniform genuinely transparent exterior. Straight orthographic front view. Black serif rank lettering for black suits, red for red suits. Exact rank text \"Q\" in large serif type at upper left with a small red hearts symbol directly beneath. Duplicate corner index rotated 180 degrees at lower right. Central traditional double-headed Queen with crown, mirrored at the waist under 180-degree rotation. Elegant classic French casino court illustration in red, navy, gold, white and black, holding a flower. Include red hearts symbols in the court artwork. Correct Q indices; no other letters. All pips must be hearts, consistently red. White card face stays opaque. Avoid perspective, shadows, gray backgrounds, texture, gradients, watermarks, extra cards, additional text."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/diamonds_8.png",
+                      "suit":  "diamonds",
+                      "rank":  "8",
+                      "prompt":  "Use case: stylized-concept. Generate one production-ready French poker card: 8 OF DIAMONDS. Classic casino deck, flat crisp printed art on PURE SOLID OPAQUE WHITE PAPER. Full portrait canvas 1024x1536 with pure white opaque background everywhere, absolutely NO TRANSPARENCY ANYWHERE. Thin black rounded card outline rectangle at x50,y74 to x974,y1462. Orthographic flat front view. Large serif \"8\" top left in red, small red diamonds beneath; matching index rotated 180 degrees bottom right. Central area has precisely EIGHT symbols in two columns of four, all red diamonds, matching traditional French suit shapes. The corner indices DO NOT count as central pips. Central pips distributed evenly between y320 and y1200, with comfortable margins. White opaque paper between every symbol. No gray halos, no black smudges, no mist, no cutouts, no shading, no shadows, no gradients, no texture. No other cards or text. Solid clean WHITE background and WHITE card face, both completely opaque."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/diamonds_3.png",
+                      "suit":  "diamonds",
+                      "rank":  "3",
+                      "prompt":  "Use case: stylized-concept. Generate one production-ready French poker card: 3 OF DIAMONDS. Classic casino deck, flat crisp printed art on PURE SOLID OPAQUE WHITE PAPER. Full portrait canvas 1024x1536 with pure white opaque background everywhere, absolutely NO TRANSPARENCY ANYWHERE. Thin black rounded card outline rectangle at x50,y74 to x974,y1462. Orthographic flat front view. Large serif \"3\" top left in red, small red diamonds beneath; matching index rotated 180 degrees bottom right. Central area has precisely THREE symbols in one vertical column, all red diamonds, matching traditional French suit shapes. The corner indices DO NOT count as central pips. Central pips distributed evenly between y320 and y1200, with comfortable margins. White opaque paper between every symbol. No gray halos, no black smudges, no mist, no cutouts, no shading, no shadows, no gradients, no texture. No other cards or text. Solid clean WHITE background and WHITE card face, both completely opaque."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/diamonds_9.png",
+                      "suit":  "diamonds",
+                      "rank":  "9",
+                      "prompt":  "Use case: stylized-concept. Generate one production-ready French poker card: 9 OF DIAMONDS. Classic casino deck, flat crisp printed art on PURE SOLID OPAQUE WHITE PAPER. Full portrait canvas 1024x1536 with pure white opaque background everywhere, absolutely NO TRANSPARENCY ANYWHERE. Thin black rounded card outline rectangle at x50,y74 to x974,y1462. Orthographic flat front view. Large serif \"9\" top left in red, small red diamonds beneath; matching index rotated 180 degrees bottom right. Central area has precisely NINE symbols: two columns of FOUR (eight total), plus ONE extra pip at exact center, all red diamonds, matching traditional French suit shapes. The corner indices DO NOT count as central pips. Central pips distributed evenly between y320 and y1200, with comfortable margins. White opaque paper between every symbol. No gray halos, no black smudges, no mist, no cutouts, no shading, no shadows, no gradients, no texture. No other cards or text. Solid clean WHITE background and WHITE card face, both completely opaque."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/diamonds_Q.png",
+                      "suit":  "diamonds",
+                      "rank":  "Q",
+                      "prompt":  "Use case: stylized-concept. Asset type: ONE individual French poker card sprite for Unity. Subject: Q OF DIAMONDS. A consistent classic casino deck design. Clean flat printed illustration, solid white opaque paper face, thin black rounded outline. Portrait 1024x1536 canvas. Card rectangle positioned x=50 to 974, y=74 to 1462, rounded corners, uniform genuinely transparent exterior. Straight orthographic front view. Black serif rank lettering for black suits, red for red suits. Exact rank text \"Q\" in large serif type at upper left with a small red diamonds symbol directly beneath. Duplicate corner index rotated 180 degrees at lower right. Central traditional double-headed Queen with crown, mirrored at the waist under 180-degree rotation. Elegant classic French casino court illustration in red, navy, gold, white and black, holding a flower. Include red diamonds symbols in the court artwork. Correct Q indices; no other letters. All pips must be diamonds, consistently red. White card face stays opaque. Avoid perspective, shadows, gray backgrounds, texture, gradients, watermarks, extra cards, additional text."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/diamonds_10.png",
+                      "suit":  "diamonds",
+                      "rank":  "10",
+                      "prompt":  "Use case: stylized-concept. Generate one production-ready French poker card: 10 OF DIAMONDS. Classic casino deck, flat crisp printed art on PURE SOLID OPAQUE WHITE PAPER. Full portrait canvas 1024x1536 with pure white opaque background everywhere, absolutely NO TRANSPARENCY ANYWHERE. Thin black rounded card outline rectangle at x50,y74 to x974,y1462. Orthographic flat front view. Large serif \"10\" top left in red, small red diamonds beneath; matching index rotated 180 degrees bottom right. Central area has precisely TEN symbols: two columns of FOUR (eight total) plus TWO extra symbols on central vertical axis, all red diamonds, matching traditional French suit shapes. The corner indices DO NOT count as central pips. Central pips distributed evenly between y320 and y1200, with comfortable margins. White opaque paper between every symbol. No gray halos, no black smudges, no mist, no cutouts, no shading, no shadows, no gradients, no texture. No other cards or text. Solid clean WHITE background and WHITE card face, both completely opaque."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/clubs_A.png",
+                      "suit":  "clubs",
+                      "rank":  "A",
+                      "prompt":  "Use case: stylized-concept. Asset type: ONE individual French poker card sprite for Unity. Subject: A OF CLUBS. A consistent classic casino deck design. Clean flat printed illustration, solid white opaque paper face, thin black rounded outline. Portrait 1024x1536 canvas. Card rectangle positioned x=50 to 974, y=74 to 1462, rounded corners, uniform genuinely transparent exterior. Straight orthographic front view. Black serif rank lettering for black suits, red for red suits. Exact rank text \"A\" in large serif type at upper left with a small black clubs symbol directly beneath. Duplicate corner index rotated 180 degrees at lower right. Exactly one large black clubs symbol centered on the face. All pips must be clubs, consistently black. White card face stays opaque. Avoid perspective, shadows, gray backgrounds, texture, gradients, watermarks, extra cards, additional text."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/diamonds_K.png",
+                      "suit":  "diamonds",
+                      "rank":  "K",
+                      "prompt":  "Use case: stylized-concept. Asset type: ONE individual French poker card sprite for Unity. Subject: K OF DIAMONDS. A consistent classic casino deck design. Clean flat printed illustration, solid white opaque paper face, thin black rounded outline. Portrait 1024x1536 canvas. Card rectangle positioned x=50 to 974, y=74 to 1462, rounded corners, uniform genuinely transparent exterior. Straight orthographic front view. Black serif rank lettering for black suits, red for red suits. Exact rank text \"K\" in large serif type at upper left with a small red diamonds symbol directly beneath. Duplicate corner index rotated 180 degrees at lower right. Central traditional double-headed King with crown, mirrored at the waist under 180-degree rotation. Elegant classic French casino court illustration in red, navy, gold, white and black, holding a sword. Include red diamonds symbols in the court artwork. Correct K indices; no other letters. All pips must be diamonds, consistently red. White card face stays opaque. Avoid perspective, shadows, gray backgrounds, texture, gradients, watermarks, extra cards, additional text."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/clubs_3.png",
+                      "suit":  "clubs",
+                      "rank":  "3",
+                      "prompt":  "Use case: stylized-concept. Asset type: ONE individual French poker card sprite for Unity. Subject: 3 OF CLUBS. A consistent classic casino deck design. Clean flat printed illustration, solid white opaque paper face, thin black rounded outline. Portrait 1024x1536 canvas. Card rectangle positioned x=50 to 974, y=74 to 1462, rounded corners, uniform genuinely transparent exterior. Straight orthographic front view. Black serif rank lettering for black suits, red for red suits. Exact rank text \"3\" in large serif type at upper left with a small black clubs symbol directly beneath. Duplicate corner index rotated 180 degrees at lower right. Exactly 3 large black clubs symbols in the central face in traditional symmetric poker pip arrangement. Count precisely: 3 central pips, not counting the two small corner symbols. All pips must be clubs, consistently black. White card face stays opaque. Avoid perspective, shadows, gray backgrounds, texture, gradients, watermarks, extra cards, additional text."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/diamonds_7.png",
+                      "suit":  "diamonds",
+                      "rank":  "7",
+                      "prompt":  "Use case: stylized-concept. Generate one production-ready French poker card: 7 OF DIAMONDS. Classic casino deck, flat crisp printed art on PURE SOLID OPAQUE WHITE PAPER. Full portrait canvas 1024x1536 with pure white opaque background everywhere, absolutely NO TRANSPARENCY ANYWHERE. Thin black rounded card outline rectangle at x50,y74 to x974,y1462. Orthographic flat front view. Large serif \"7\" top left in red, small red diamonds beneath; matching index rotated 180 degrees bottom right. Central area has precisely SEVEN symbols: two columns of three plus one in center, all red diamonds, matching traditional French suit shapes. The corner indices DO NOT count as central pips. Central pips distributed evenly between y320 and y1200, with comfortable margins. White opaque paper between every symbol. No gray halos, no black smudges, no mist, no cutouts, no shading, no shadows, no gradients, no texture. No other cards or text. Solid clean WHITE background and WHITE card face, both completely opaque."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/diamonds_J.png",
+                      "suit":  "diamonds",
+                      "rank":  "J",
+                      "prompt":  "Use case: stylized-concept. Asset type: ONE individual French poker card sprite for Unity. Subject: J OF DIAMONDS. A consistent classic casino deck design. Clean flat printed illustration, solid white opaque paper face, thin black rounded outline. Portrait 1024x1536 canvas. Card rectangle positioned x=50 to 974, y=74 to 1462, rounded corners, uniform genuinely transparent exterior. Straight orthographic front view. Black serif rank lettering for black suits, red for red suits. Exact rank text \"J\" in large serif type at upper left with a small red diamonds symbol directly beneath. Duplicate corner index rotated 180 degrees at lower right. Central traditional double-headed Jack, a young male court attendant, mirrored at the waist under 180-degree rotation. Elegant classic French casino court illustration in red, navy, gold, white and black, holding a ceremonial staff. Include red diamonds symbols in the court artwork. Correct J indices; no other letters. All pips must be diamonds, consistently red. White card face stays opaque. Avoid perspective, shadows, gray backgrounds, texture, gradients, watermarks, extra cards, additional text."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/clubs_8.png",
+                      "suit":  "clubs",
+                      "rank":  "8",
+                      "prompt":  "Use case: stylized-concept. Asset type: ONE individual French poker card sprite for Unity. Subject: 8 OF CLUBS. A consistent classic casino deck design. Clean flat printed illustration, solid white opaque paper face, thin black rounded outline. Portrait 1024x1536 canvas. Card rectangle positioned x=50 to 974, y=74 to 1462, rounded corners, uniform genuinely transparent exterior. Straight orthographic front view. Black serif rank lettering for black suits, red for red suits. Exact rank text \"8\" in large serif type at upper left with a small black clubs symbol directly beneath. Duplicate corner index rotated 180 degrees at lower right. Exactly 8 large black clubs symbols in the central face in traditional symmetric poker pip arrangement. Count precisely: 8 central pips, not counting the two small corner symbols. All pips must be clubs, consistently black. White card face stays opaque. Avoid perspective, shadows, gray backgrounds, texture, gradients, watermarks, extra cards, additional text."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/clubs_5.png",
+                      "suit":  "clubs",
+                      "rank":  "5",
+                      "prompt":  "Use case: stylized-concept. Asset type: ONE individual French poker card sprite for Unity. Subject: 5 OF CLUBS. A consistent classic casino deck design. Clean flat printed illustration, solid white opaque paper face, thin black rounded outline. Portrait 1024x1536 canvas. Card rectangle positioned x=50 to 974, y=74 to 1462, rounded corners, uniform genuinely transparent exterior. Straight orthographic front view. Black serif rank lettering for black suits, red for red suits. Exact rank text \"5\" in large serif type at upper left with a small black clubs symbol directly beneath. Duplicate corner index rotated 180 degrees at lower right. Exactly 5 large black clubs symbols in the central face in traditional symmetric poker pip arrangement. Count precisely: 5 central pips, not counting the two small corner symbols. All pips must be clubs, consistently black. White card face stays opaque. Avoid perspective, shadows, gray backgrounds, texture, gradients, watermarks, extra cards, additional text."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/clubs_7.png",
+                      "suit":  "clubs",
+                      "rank":  "7",
+                      "prompt":  "Use case: stylized-concept. Asset type: ONE individual French poker card sprite for Unity. Subject: 7 OF CLUBS. A consistent classic casino deck design. Clean flat printed illustration, solid white opaque paper face, thin black rounded outline. Portrait 1024x1536 canvas. Card rectangle positioned x=50 to 974, y=74 to 1462, rounded corners, uniform genuinely transparent exterior. Straight orthographic front view. Black serif rank lettering for black suits, red for red suits. Exact rank text \"7\" in large serif type at upper left with a small black clubs symbol directly beneath. Duplicate corner index rotated 180 degrees at lower right. Exactly 7 large black clubs symbols in the central face in traditional symmetric poker pip arrangement. Count precisely: 7 central pips, not counting the two small corner symbols. All pips must be clubs, consistently black. White card face stays opaque. Avoid perspective, shadows, gray backgrounds, texture, gradients, watermarks, extra cards, additional text."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/clubs_4.png",
+                      "suit":  "clubs",
+                      "rank":  "4",
+                      "prompt":  "Use case: stylized-concept. Asset type: ONE individual French poker card sprite for Unity. Subject: 4 OF CLUBS. A consistent classic casino deck design. Clean flat printed illustration, solid white opaque paper face, thin black rounded outline. Portrait 1024x1536 canvas. Card rectangle positioned x=50 to 974, y=74 to 1462, rounded corners, uniform genuinely transparent exterior. Straight orthographic front view. Black serif rank lettering for black suits, red for red suits. Exact rank text \"4\" in large serif type at upper left with a small black clubs symbol directly beneath. Duplicate corner index rotated 180 degrees at lower right. Exactly 4 large black clubs symbols in the central face in traditional symmetric poker pip arrangement. Count precisely: 4 central pips, not counting the two small corner symbols. All pips must be clubs, consistently black. White card face stays opaque. Avoid perspective, shadows, gray backgrounds, texture, gradients, watermarks, extra cards, additional text."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/clubs_2.png",
+                      "suit":  "clubs",
+                      "rank":  "2",
+                      "prompt":  "Use case: stylized-concept. Asset type: ONE individual French poker card sprite for Unity. Subject: 2 OF CLUBS. A consistent classic casino deck design. Clean flat printed illustration, solid white opaque paper face, thin black rounded outline. Portrait 1024x1536 canvas. Card rectangle positioned x=50 to 974, y=74 to 1462, rounded corners, uniform genuinely transparent exterior. Straight orthographic front view. Black serif rank lettering for black suits, red for red suits. Exact rank text \"2\" in large serif type at upper left with a small black clubs symbol directly beneath. Duplicate corner index rotated 180 degrees at lower right. Exactly 2 large black clubs symbols in the central face in traditional symmetric poker pip arrangement. Count precisely: 2 central pips, not counting the two small corner symbols. All pips must be clubs, consistently black. White card face stays opaque. Avoid perspective, shadows, gray backgrounds, texture, gradients, watermarks, extra cards, additional text."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/clubs_J.png",
+                      "suit":  "clubs",
+                      "rank":  "J",
+                      "prompt":  "Use case: stylized-concept. Asset type: ONE individual French poker card sprite for Unity. Subject: J OF CLUBS. A consistent classic casino deck design. Clean flat printed illustration, solid white opaque paper face, thin black rounded outline. Portrait 1024x1536 canvas. Card rectangle positioned x=50 to 974, y=74 to 1462, rounded corners, uniform genuinely transparent exterior. Straight orthographic front view. Black serif rank lettering for black suits, red for red suits. Exact rank text \"J\" in large serif type at upper left with a small black clubs symbol directly beneath. Duplicate corner index rotated 180 degrees at lower right. Central traditional double-headed Jack, a young male court attendant, mirrored at the waist under 180-degree rotation. Elegant classic French casino court illustration in red, navy, gold, white and black, holding a ceremonial staff. Include black clubs symbols in the court artwork. Correct J indices; no other letters. All pips must be clubs, consistently black. White card face stays opaque. Avoid perspective, shadows, gray backgrounds, texture, gradients, watermarks, extra cards, additional text."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/clubs_6.png",
+                      "suit":  "clubs",
+                      "rank":  "6",
+                      "prompt":  "Use case: stylized-concept. Asset type: ONE individual French poker card sprite for Unity. Subject: 6 OF CLUBS. A consistent classic casino deck design. Clean flat printed illustration, solid white opaque paper face, thin black rounded outline. Portrait 1024x1536 canvas. Card rectangle positioned x=50 to 974, y=74 to 1462, rounded corners, uniform genuinely transparent exterior. Straight orthographic front view. Black serif rank lettering for black suits, red for red suits. Exact rank text \"6\" in large serif type at upper left with a small black clubs symbol directly beneath. Duplicate corner index rotated 180 degrees at lower right. Exactly 6 large black clubs symbols in the central face in traditional symmetric poker pip arrangement. Count precisely: 6 central pips, not counting the two small corner symbols. All pips must be clubs, consistently black. White card face stays opaque. Avoid perspective, shadows, gray backgrounds, texture, gradients, watermarks, extra cards, additional text."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/clubs_Q.png",
+                      "suit":  "clubs",
+                      "rank":  "Q",
+                      "prompt":  "Use case: stylized-concept. Asset type: ONE individual French poker card sprite for Unity. Subject: Q OF CLUBS. A consistent classic casino deck design. Clean flat printed illustration, solid white opaque paper face, thin black rounded outline. Portrait 1024x1536 canvas. Card rectangle positioned x=50 to 974, y=74 to 1462, rounded corners, uniform genuinely transparent exterior. Straight orthographic front view. Black serif rank lettering for black suits, red for red suits. Exact rank text \"Q\" in large serif type at upper left with a small black clubs symbol directly beneath. Duplicate corner index rotated 180 degrees at lower right. Central traditional double-headed Queen with crown, mirrored at the waist under 180-degree rotation. Elegant classic French casino court illustration in red, navy, gold, white and black, holding a flower. Include black clubs symbols in the court artwork. Correct Q indices; no other letters. All pips must be clubs, consistently black. White card face stays opaque. Avoid perspective, shadows, gray backgrounds, texture, gradients, watermarks, extra cards, additional text."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/clubs_10.png",
+                      "suit":  "clubs",
+                      "rank":  "10",
+                      "prompt":  "Use case: stylized-concept. One individual French poker playing card: TEN OF CLUBS. Portrait 1024x1536. Opaque pure white card on opaque white background, thin black rounded rectangular outline at x50 y74 to x974 y1462. Flat clean casino printing, no shadows or gradients or transparency. Top left exact serif rank \"10\" with small black clubs underneath. Bottom right identical rotated index. CENTRAL PIPS: precisely TEN BLACK CLUBS symbols. Layout: left column FOUR symbols at y360,600,900,1140. Right column FOUR symbols at same heights. Middle column TWO extra symbols at y480 and1050. Total 4+4+2=10 large pips excluding two tiny index symbols. All black clubs. White opaque space between all pips. No extra symbols. Count must be exactly ten central pips. No smudges."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/clubs_K.png",
+                      "suit":  "clubs",
+                      "rank":  "K",
+                      "prompt":  "Use case: stylized-concept. Asset type: ONE individual French poker card sprite for Unity. Subject: K OF CLUBS. A consistent classic casino deck design. Clean flat printed illustration, solid white opaque paper face, thin black rounded outline. Portrait 1024x1536 canvas. Card rectangle positioned x=50 to 974, y=74 to 1462, rounded corners, uniform genuinely transparent exterior. Straight orthographic front view. Black serif rank lettering for black suits, red for red suits. Exact rank text \"K\" in large serif type at upper left with a small black clubs symbol directly beneath. Duplicate corner index rotated 180 degrees at lower right. Central traditional double-headed King with crown, mirrored at the waist under 180-degree rotation. Elegant classic French casino court illustration in red, navy, gold, white and black, holding a sword. Include black clubs symbols in the court artwork. Correct K indices; no other letters. All pips must be clubs, consistently black. White card face stays opaque. Avoid perspective, shadows, gray backgrounds, texture, gradients, watermarks, extra cards, additional text."
+                  },
+                  {
+                      "file":  "Assets/Images/PlayingCards/clubs_9.png",
+                      "suit":  "clubs",
+                      "rank":  "9",
+                      "prompt":  "Use case: stylized-concept. Asset type: ONE individual French poker card sprite for Unity. Subject: 9 OF CLUBS. A consistent classic casino deck design. Clean flat printed illustration, solid white opaque paper face, thin black rounded outline. Portrait 1024x1536 canvas. Card rectangle positioned x=50 to 974, y=74 to 1462, rounded corners, uniform genuinely transparent exterior. Straight orthographic front view. Black serif rank lettering for black suits, red for red suits. Exact rank text \"9\" in large serif type at upper left with a small black clubs symbol directly beneath. Duplicate corner index rotated 180 degrees at lower right. Exactly 9 large black clubs symbols in the central face in traditional symmetric poker pip arrangement. Count precisely: 9 central pips, not counting the two small corner symbols. All pips must be clubs, consistently black. White card face stays opaque. Avoid perspective, shadows, gray backgrounds, texture, gradients, watermarks, extra cards, additional text."
+                  }
+              ],
+    "normalization":  {
+                          "Method":  "User-authorized deterministic script",
+                          "Script":  "output/imagegen/normalize-cards.ps1",
+                          "CanvasWidth":  1024,
+                          "CanvasHeight":  1536,
+                          "Left":  50,
+                          "Top":  75,
+                          "CardWidth":  924,
+                          "CardHeight":  1386,
+                          "CornerRadius":  48,
+                          "BorderWidth":  4,
+                          "ExteriorAlpha":  0,
+                          "InteriorAlpha":  255,
+                          "Originals":  "output/imagegen/originals-before-normalization",
+                          "ValidationReport":  "output/imagegen/normalization-report.json"
+                      }
+}

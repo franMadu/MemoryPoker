@@ -1,0 +1,194 @@
+﻿[
+    {
+        "File":  "back_A.png",
+        "Letter":  "A",
+        "SourceBounds":  [
+                             32,
+                             83,
+                             991,
+                             1426
+                         ],
+        "RemovedOutlinePixels":  34793,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "back_B.png",
+        "Letter":  "B",
+        "SourceBounds":  [
+                             32,
+                             83,
+                             991,
+                             1426
+                         ],
+        "RemovedOutlinePixels":  36875,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "back_C.png",
+        "Letter":  "C",
+        "SourceBounds":  [
+                             32,
+                             83,
+                             991,
+                             1426
+                         ],
+        "RemovedOutlinePixels":  34873,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "back_D.png",
+        "Letter":  "D",
+        "SourceBounds":  [
+                             32,
+                             83,
+                             991,
+                             1426
+                         ],
+        "RemovedOutlinePixels":  36008,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "back_E.png",
+        "Letter":  "E",
+        "SourceBounds":  [
+                             32,
+                             83,
+                             991,
+                             1426
+                         ],
+        "RemovedOutlinePixels":  36021,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "back_F.png",
+        "Letter":  "F",
+        "SourceBounds":  [
+                             32,
+                             83,
+                             991,
+                             1426
+                         ],
+        "RemovedOutlinePixels":  36015,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "back_G.png",
+        "Letter":  "G",
+        "SourceBounds":  [
+                             32,
+                             83,
+                             991,
+                             1426
+                         ],
+        "RemovedOutlinePixels":  34761,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "back_H.png",
+        "Letter":  "H",
+        "SourceBounds":  [
+                             32,
+                             83,
+                             991,
+                             1426
+                         ],
+        "RemovedOutlinePixels":  34765,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "back_I.png",
+        "Letter":  "I",
+        "SourceBounds":  [
+                             32,
+                             83,
+                             991,
+                             1426
+                         ],
+        "RemovedOutlinePixels":  35954,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "back_J.png",
+        "Letter":  "J",
+        "SourceBounds":  [
+                             31,
+                             83,
+                             991,
+                             1426
+                         ],
+        "RemovedOutlinePixels":  38085,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "back_K.png",
+        "Letter":  "K",
+        "SourceBounds":  [
+                             32,
+                             83,
+                             991,
+                             1426
+                         ],
+        "RemovedOutlinePixels":  36057,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "back_L.png",
+        "Letter":  "L",
+        "SourceBounds":  [
+                             32,
+                             83,
+                             991,
+                             1426
+                         ],
+        "RemovedOutlinePixels":  36023,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "back_M.png",
+        "Letter":  "M",
+        "SourceBounds":  [
+                             32,
+                             83,
+                             991,
+                             1426
+                         ],
+        "RemovedOutlinePixels":  36029,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "back_N.png",
+        "Letter":  "N",
+        "SourceBounds":  [
+                             31,
+                             83,
+                             991,
+                             1426
+                         ],
+        "RemovedOutlinePixels":  36037,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "back_O.png",
+        "Letter":  "O",
+        "SourceBounds":  [
+                             32,
+                             83,
+                             991,
+                             1426
+                         ],
+        "RemovedOutlinePixels":  35999,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    },
+    {
+        "File":  "back_P.png",
+        "Letter":  "P",
+        "SourceBounds":  [
+                             32,
+                             85,
+                             991,
+                             1426
+                         ],
+        "RemovedOutlinePixels":  36017,
+        "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+    }
+]

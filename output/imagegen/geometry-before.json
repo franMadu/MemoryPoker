@@ -1,0 +1,522 @@
+﻿[
+    {
+        "Name":  "clubs_10",
+        "Left":  38,
+        "Top":  69,
+        "Right":  985,
+        "Bottom":  1492,
+        "CardWidth":  948,
+        "CardHeight":  1424,
+        "CornerAlpha":  255
+    },
+    {
+        "Name":  "clubs_2",
+        "Left":  37,
+        "Top":  82,
+        "Right":  987,
+        "Bottom":  1452,
+        "CardWidth":  951,
+        "CardHeight":  1371,
+        "CornerAlpha":  0
+    },
+    {
+        "Name":  "clubs_3",
+        "Left":  29,
+        "Top":  98,
+        "Right":  995,
+        "Bottom":  1458,
+        "CardWidth":  967,
+        "CardHeight":  1361,
+        "CornerAlpha":  0
+    },
+    {
+        "Name":  "clubs_4",
+        "Left":  36,
+        "Top":  76,
+        "Right":  987,
+        "Bottom":  1459,
+        "CardWidth":  952,
+        "CardHeight":  1384,
+        "CornerAlpha":  0
+    },
+    {
+        "Name":  "clubs_5",
+        "Left":  27,
+        "Top":  90,
+        "Right":  996,
+        "Bottom":  1476,
+        "CardWidth":  970,
+        "CardHeight":  1387,
+        "CornerAlpha":  0
+    },
+    {
+        "Name":  "clubs_6",
+        "Left":  45,
+        "Top":  78,
+        "Right":  978,
+        "Bottom":  1457,
+        "CardWidth":  934,
+        "CardHeight":  1380,
+        "CornerAlpha":  0
+    },
+    {
+        "Name":  "clubs_7",
+        "Left":  17,
+        "Top":  82,
+        "Right":  1006,
+        "Bottom":  1456,
+        "CardWidth":  990,
+        "CardHeight":  1375,
+        "CornerAlpha":  0
+    },
+    {
+        "Name":  "clubs_8",
+        "Left":  29,
+        "Top":  102,
+        "Right":  994,
+        "Bottom":  1513,
+        "CardWidth":  966,
+        "CardHeight":  1412,
+        "CornerAlpha":  0
+    },
+    {
+        "Name":  "clubs_9",
+        "Left":  34,
+        "Top":  98,
+        "Right":  989,
+        "Bottom":  1472,
+        "CardWidth":  956,
+        "CardHeight":  1375,
+        "CornerAlpha":  0
+    },
+    {
+        "Name":  "clubs_A",
+        "Left":  38,
+        "Top":  91,
+        "Right":  985,
+        "Bottom":  1444,
+        "CardWidth":  948,
+        "CardHeight":  1354,
+        "CornerAlpha":  0
+    },
+    {
+        "Name":  "clubs_J",
+        "Left":  31,
+        "Top":  86,
+        "Right":  991,
+        "Bottom":  1478,
+        "CardWidth":  961,
+        "CardHeight":  1393,
+        "CornerAlpha":  0
+    },
+    {
+        "Name":  "clubs_K",
+        "Left":  47,
+        "Top":  98,
+        "Right":  976,
+        "Bottom":  1462,
+        "CardWidth":  930,
+        "CardHeight":  1365,
+        "CornerAlpha":  0
+    },
+    {
+        "Name":  "clubs_Q",
+        "Left":  32,
+        "Top":  87,
+        "Right":  991,
+        "Bottom":  1480,
+        "CardWidth":  960,
+        "CardHeight":  1394,
+        "CornerAlpha":  0
+    },
+    {
+        "Name":  "diamonds_10",
+        "Left":  39,
+        "Top":  100,
+        "Right":  985,
+        "Bottom":  1435,
+        "CardWidth":  947,
+        "CardHeight":  1336,
+        "CornerAlpha":  255
+    },
+    {
+        "Name":  "diamonds_2",
+        "Left":  33,
+        "Top":  72,
+        "Right":  991,
+        "Bottom":  1466,
+        "CardWidth":  959,
+        "CardHeight":  1395,
+        "CornerAlpha":  255
+    },
+    {
+        "Name":  "diamonds_3",
+        "Left":  40,
+        "Top":  102,
+        "Right":  983,
+        "Bottom":  1433,
+        "CardWidth":  944,
+        "CardHeight":  1332,
+        "CornerAlpha":  255
+    },
+    {
+        "Name":  "diamonds_4",
+        "Left":  27,
+        "Top":  96,
+        "Right":  996,
+        "Bottom":  1443,
+        "CardWidth":  970,
+        "CardHeight":  1348,
+        "CornerAlpha":  255
+    },
+    {
+        "Name":  "diamonds_5",
+        "Left":  29,
+        "Top":  91,
+        "Right":  993,
+        "Bottom":  1445,
+        "CardWidth":  965,
+        "CardHeight":  1355,
+        "CornerAlpha":  255
+    },
+    {
+        "Name":  "diamonds_6",
+        "Left":  31,
+        "Top":  99,
+        "Right":  992,
+        "Bottom":  1438,
+        "CardWidth":  962,
+        "CardHeight":  1340,
+        "CornerAlpha":  255
+    },
+    {
+        "Name":  "diamonds_7",
+        "Left":  41,
+        "Top":  79,
+        "Right":  982,
+        "Bottom":  1456,
+        "CardWidth":  942,
+        "CardHeight":  1378,
+        "CornerAlpha":  255
+    },
+    {
+        "Name":  "diamonds_8",
+        "Left":  33,
+        "Top":  88,
+        "Right":  990,
+        "Bottom":  1452,
+        "CardWidth":  958,
+        "CardHeight":  1365,
+        "CornerAlpha":  255
+    },
+    {
+        "Name":  "diamonds_9",
+        "Left":  39,
+        "Top":  84,
+        "Right":  984,
+        "Bottom":  1451,
+        "CardWidth":  946,
+        "CardHeight":  1368,
+        "CornerAlpha":  255
+    },
+    {
+        "Name":  "diamonds_A",
+        "Left":  30,
+        "Top":  77,
+        "Right":  993,
+        "Bottom":  1458,
+        "CardWidth":  964,
+        "CardHeight":  1382,
+        "CornerAlpha":  255
+    },
+    {
+        "Name":  "diamonds_J",
+        "Left":  31,
+        "Top":  98,
+        "Right":  988,
+        "Bottom":  1468,
+        "CardWidth":  958,
+        "CardHeight":  1371,
+        "CornerAlpha":  0
+    },
+    {
+        "Name":  "diamonds_K",
+        "Left":  40,
+        "Top":  76,
+        "Right":  982,
+        "Bottom":  1459,
+        "CardWidth":  943,
+        "CardHeight":  1384,
+        "CornerAlpha":  0
+    },
+    {
+        "Name":  "diamonds_Q",
+        "Left":  42,
+        "Top":  85,
+        "Right":  981,
+        "Bottom":  1451,
+        "CardWidth":  940,
+        "CardHeight":  1367,
+        "CornerAlpha":  0
+    },
+    {
+        "Name":  "hearts_10",
+        "Left":  33,
+        "Top":  97,
+        "Right":  991,
+        "Bottom":  1460,
+        "CardWidth":  959,
+        "CardHeight":  1364,
+        "CornerAlpha":  255
+    },
+    {
+        "Name":  "hearts_2",
+        "Left":  39,
+        "Top":  100,
+        "Right":  985,
+        "Bottom":  1435,
+        "CardWidth":  947,
+        "CardHeight":  1336,
+        "CornerAlpha":  255
+    },
+    {
+        "Name":  "hearts_3",
+        "Left":  36,
+        "Top":  93,
+        "Right":  988,
+        "Bottom":  1443,
+        "CardWidth":  953,
+        "CardHeight":  1351,
+        "CornerAlpha":  255
+    },
+    {
+        "Name":  "hearts_4",
+        "Left":  30,
+        "Top":  89,
+        "Right":  993,
+        "Bottom":  1451,
+        "CardWidth":  964,
+        "CardHeight":  1363,
+        "CornerAlpha":  255
+    },
+    {
+        "Name":  "hearts_5",
+        "Left":  33,
+        "Top":  93,
+        "Right":  990,
+        "Bottom":  1443,
+        "CardWidth":  958,
+        "CardHeight":  1351,
+        "CornerAlpha":  255
+    },
+    {
+        "Name":  "hearts_6",
+        "Left":  35,
+        "Top":  77,
+        "Right":  988,
+        "Bottom":  1458,
+        "CardWidth":  954,
+        "CardHeight":  1382,
+        "CornerAlpha":  255
+    },
+    {
+        "Name":  "hearts_7",
+        "Left":  27,
+        "Top":  96,
+        "Right":  995,
+        "Bottom":  1458,
+        "CardWidth":  969,
+        "CardHeight":  1363,
+        "CornerAlpha":  0
+    },
+    {
+        "Name":  "hearts_8",
+        "Left":  31,
+        "Top":  93,
+        "Right":  993,
+        "Bottom":  1472,
+        "CardWidth":  963,
+        "CardHeight":  1380,
+        "CornerAlpha":  255
+    },
+    {
+        "Name":  "hearts_9",
+        "Left":  33,
+        "Top":  83,
+        "Right":  990,
+        "Bottom":  1471,
+        "CardWidth":  958,
+        "CardHeight":  1389,
+        "CornerAlpha":  255
+    },
+    {
+        "Name":  "hearts_A",
+        "Left":  41,
+        "Top":  78,
+        "Right":  982,
+        "Bottom":  1457,
+        "CardWidth":  942,
+        "CardHeight":  1380,
+        "CornerAlpha":  0
+    },
+    {
+        "Name":  "hearts_J",
+        "Left":  47,
+        "Top":  99,
+        "Right":  975,
+        "Bottom":  1442,
+        "CardWidth":  929,
+        "CardHeight":  1344,
+        "CornerAlpha":  0
+    },
+    {
+        "Name":  "hearts_K",
+        "Left":  36,
+        "Top":  99,
+        "Right":  987,
+        "Bottom":  1447,
+        "CardWidth":  952,
+        "CardHeight":  1349,
+        "CornerAlpha":  0
+    },
+    {
+        "Name":  "hearts_Q",
+        "Left":  34,
+        "Top":  81,
+        "Right":  989,
+        "Bottom":  1454,
+        "CardWidth":  956,
+        "CardHeight":  1374,
+        "CornerAlpha":  1
+    },
+    {
+        "Name":  "spades_10",
+        "Left":  22,
+        "Top":  80,
+        "Right":  1001,
+        "Bottom":  1514,
+        "CardWidth":  980,
+        "CardHeight":  1435,
+        "CornerAlpha":  255
+    },
+    {
+        "Name":  "spades_2",
+        "Left":  45,
+        "Top":  104,
+        "Right":  979,
+        "Bottom":  1463,
+        "CardWidth":  935,
+        "CardHeight":  1360,
+        "CornerAlpha":  0
+    },
+    {
+        "Name":  "spades_3",
+        "Left":  33,
+        "Top":  101,
+        "Right":  990,
+        "Bottom":  1443,
+        "CardWidth":  958,
+        "CardHeight":  1343,
+        "CornerAlpha":  255
+    },
+    {
+        "Name":  "spades_4",
+        "Left":  41,
+        "Top":  89,
+        "Right":  982,
+        "Bottom":  1447,
+        "CardWidth":  942,
+        "CardHeight":  1359,
+        "CornerAlpha":  0
+    },
+    {
+        "Name":  "spades_5",
+        "Left":  34,
+        "Top":  91,
+        "Right":  989,
+        "Bottom":  1444,
+        "CardWidth":  956,
+        "CardHeight":  1354,
+        "CornerAlpha":  255
+    },
+    {
+        "Name":  "spades_6",
+        "Left":  38,
+        "Top":  97,
+        "Right":  985,
+        "Bottom":  1473,
+        "CardWidth":  948,
+        "CardHeight":  1377,
+        "CornerAlpha":  0
+    },
+    {
+        "Name":  "spades_7",
+        "Left":  33,
+        "Top":  101,
+        "Right":  990,
+        "Bottom":  1470,
+        "CardWidth":  958,
+        "CardHeight":  1370,
+        "CornerAlpha":  0
+    },
+    {
+        "Name":  "spades_8",
+        "Left":  26,
+        "Top":  76,
+        "Right":  997,
+        "Bottom":  1459,
+        "CardWidth":  972,
+        "CardHeight":  1384,
+        "CornerAlpha":  0
+    },
+    {
+        "Name":  "spades_9",
+        "Left":  39,
+        "Top":  104,
+        "Right":  984,
+        "Bottom":  1435,
+        "CardWidth":  946,
+        "CardHeight":  1332,
+        "CornerAlpha":  0
+    },
+    {
+        "Name":  "spades_A",
+        "Left":  49,
+        "Top":  72,
+        "Right":  974,
+        "Bottom":  1463,
+        "CardWidth":  926,
+        "CardHeight":  1392,
+        "CornerAlpha":  0
+    },
+    {
+        "Name":  "spades_J",
+        "Left":  37,
+        "Top":  81,
+        "Right":  982,
+        "Bottom":  1477,
+        "CardWidth":  946,
+        "CardHeight":  1397,
+        "CornerAlpha":  0
+    },
+    {
+        "Name":  "spades_K",
+        "Left":  36,
+        "Top":  82,
+        "Right":  987,
+        "Bottom":  1453,
+        "CardWidth":  952,
+        "CardHeight":  1372,
+        "CornerAlpha":  0
+    },
+    {
+        "Name":  "spades_Q",
+        "Left":  36,
+        "Top":  84,
+        "Right":  986,
+        "Bottom":  1478,
+        "CardWidth":  951,
+        "CardHeight":  1395,
+        "CornerAlpha":  0
+    }
+]

@@ -1,0 +1,12 @@
+﻿{
+    "File":  "back_blank.png",
+    "Letter":  "blank",
+    "SourceBounds":  [
+                         32,
+                         83,
+                         991,
+                         1426
+                     ],
+    "RemovedOutlinePixels":  36028,
+    "Validation":  "1024x1536; card=(50,75,924,1386); exterior transparent; interior opaque; radius=48; border=4"
+}

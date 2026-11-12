@@ -1,0 +1,10 @@
+{
+  "generator": "Built-in image_gen",
+  "prompt": "Use case: precise-object-edit. Image 1 is the EDIT TARGET: a finished navy and gold playing card back with an empty central circular medallion. Correct ONLY the double gold rectangular perimeter frame: replace its FOUR sharp square corners with smooth rounded quarter-circle corners concentric with the physical rounded card outline. The gold frames must be fully inside the rounded navy card shape with consistent navy breathing room all around; no gold line may be cut by the card silhouette. Keep card bounds x50..973 y75..1460 on the EXACT 1024x1536 canvas, outer corner radius 48 pixels. Outer gold frame about 12 pixels inset from silhouette, inner gold frame about 30 pixels inset, with corresponding concentric rounded corners, each gold stroke about 6 pixels thick. Keep all gold botanical corner ornaments, navy blue background, lattice, circle and layout unchanged. Interior navy must fill the entire rounded card; NO white border, NO gray haze, NO shadows. Keep central medallion empty with no text. Exterior genuinely transparent. The correction is to round and slightly inset the gold perimeter frame so all four corners are complete, elegant curves rather than clipped right angles. Preserve all central artwork and ornaments.",
+  "reference": "Assets/Images/PlayingCardBacks/back_blank.png",
+  "generatedEdit": "rounded-frame-generated.png",
+  "appliedTo": "Assets/Images/PlayingCardBacks/*.png",
+  "method": "Apply generated rounded frame consistently to all 17 backs; preserve original alpha and central artwork exactly.",
+  "script": "apply-rounded-frame.ps1",
+  "report": "rounded-frame-report.json"
+}

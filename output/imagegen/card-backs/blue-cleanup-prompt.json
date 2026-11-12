@@ -1,0 +1,10 @@
+{
+  "generator": "Built-in image_gen",
+  "prompt": "Use case: precise-object-edit. Image 1 is the edit target, the finished blank navy-and-gold poker card back. Correct the unwanted pale gray/white cloudy smears beside the vertical gold borders near BOTH TOP CORNERS, continuing for roughly the top third of the left and right sides. Replace those cloudy/gray/white areas with the same clean dark navy blue as the rest of the card background. Preserve the sharp gold border lines, gold corner flourishes, lattice ornament, empty central medallion, every shape and position. No new elements or letters. The navy blue gutters immediately beside the gold frame must be perfectly clean blue, with no white, gray, silver, glare, highlights, shadows or metallic mist. Gold lines remain gold and sharp. Keep the EXACT 1024x1536 canvas, card rectangle x50..973 y75..1460 with 48px rounded corners, and fully opaque printed interior. Outside the rounded card must remain genuinely transparent. This is a narrowly targeted color cleanup only.",
+  "reference": "Assets/Images/PlayingCardBacks/back_blank.png",
+  "generatedEdit": "blue-cleanup-generated.png",
+  "appliedTo": "Assets/Images/PlayingCardBacks/*.png",
+  "method": "Generated perimeter edit applied with a consistent mask to all 17 existing backs; original alpha and central artwork preserved exactly.",
+  "script": "apply-blue-cleanup.ps1",
+  "report": "blue-cleanup-report.json"
+}

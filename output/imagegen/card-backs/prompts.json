@@ -1,0 +1,135 @@
+﻿{
+    "generator":  "Built-in image_gen",
+    "count":  16,
+    "letters":  "ABCDEFGHIJKLMNOP",
+    "design":  "Matching navy and gold patterned backs with one large ivory serif central letter.",
+    "reference":  "originals/back_A.png",
+    "normalization":  {
+                          "method":  "Previously authorized script normalization",
+                          "script":  "normalize-backs.ps1",
+                          "canvas":  [
+                                         1024,
+                                         1536
+                                     ],
+                          "cardBounds":  [
+                                             50,
+                                             75,
+                                             924,
+                                             1386
+                                         ],
+                          "cornerRadius":  48,
+                          "borderWidth":  0,
+                          "exteriorAlpha":  0,
+                          "interiorAlpha":  255
+                      },
+    "cards":  [
+                  {
+                      "letter":  "A",
+                      "file":  "Assets/Images/PlayingCardBacks/back_A.png",
+                      "original":  "originals/back_A.png",
+                      "prompt":  "Use case: stylized-concept. Asset type: one French poker playing-card BACK for a Unity memory game, labeled A. Portrait canvas 1024x1536. Exactly ONE flat orthographic card, centered, thin black rounded rectangular outer outline around x50,y75 to x974,y1461. Opaque ivory white rim, inset navy blue rectangular patterned back. Elegant classic casino engraving, restrained symmetrical gold geometric lattice and delicate gold double-line border on navy. At the exact center a large round navy medallion with a fine gold ring and a single very large bold ivory uppercase serif letter. Text verbatim: \"A\". Only that ONE letter, no corner letters, no ranks, no suits, no other text. The letter must be plainly legible at thumbnail size. Symmetric ornament, crisp clean flat printing, no gradients, shadows, perspective, tabletop, texture, watermark, logos. Both card face and outside background fully opaque. Outside the card pure white, artwork all opaque. Maintain a white margin between black outer outline and navy panel so the black outline is separate from the dark artwork. This is the master design for a matching set of 16 backs where only the central letter changes."
+                  },
+                  {
+                      "letter":  "B",
+                      "file":  "Assets/Images/PlayingCardBacks/back_B.png",
+                      "original":  "originals/back_B.png",
+                      "prompt":  "Use case: precise-object-edit. Image 1 is the EDIT TARGET and the master design of a matching deck of poker card backs. Change ONLY the large central uppercase letter \"A\" to the exact single uppercase letter \"B\". Text verbatim: \"B\". Keep the same ivory bold serif font family, apparent cap height, center alignment and visual weight; fit wider letters comfortably within the round navy medallion. Preserve ALL other pixels/design details as closely as possible: navy background, exact gold engraving pattern and frame, ivory rim, black rounded outer outline, ornament positions, dimensions, 1024x1536 portrait canvas, colors, centered card, flat front view, white opaque exterior. Do not add any other lettering. No transparency yet; the card will receive an exact geometric transparency mask after editing."
+                  },
+                  {
+                      "letter":  "C",
+                      "file":  "Assets/Images/PlayingCardBacks/back_C.png",
+                      "original":  "originals/back_C.png",
+                      "prompt":  "Use case: precise-object-edit. Image 1 is the EDIT TARGET and the master design of a matching deck of poker card backs. Change ONLY the large central uppercase letter \"A\" to the exact single uppercase letter \"C\". Text verbatim: \"C\". Keep the same ivory bold serif font family, apparent cap height, center alignment and visual weight; fit wider letters comfortably within the round navy medallion. Preserve ALL other pixels/design details as closely as possible: navy background, exact gold engraving pattern and frame, ivory rim, black rounded outer outline, ornament positions, dimensions, 1024x1536 portrait canvas, colors, centered card, flat front view, white opaque exterior. Do not add any other lettering. No transparency yet; the card will receive an exact geometric transparency mask after editing."
+                  },
+                  {
+                      "letter":  "D",
+                      "file":  "Assets/Images/PlayingCardBacks/back_D.png",
+                      "original":  "originals/back_D.png",
+                      "prompt":  "Use case: precise-object-edit. Image 1 is the EDIT TARGET and the master design of a matching deck of poker card backs. Change ONLY the large central uppercase letter \"A\" to the exact single uppercase letter \"D\". Text verbatim: \"D\". Keep the same ivory bold serif font family, apparent cap height, center alignment and visual weight; fit wider letters comfortably within the round navy medallion. Preserve ALL other pixels/design details as closely as possible: navy background, exact gold engraving pattern and frame, ivory rim, black rounded outer outline, ornament positions, dimensions, 1024x1536 portrait canvas, colors, centered card, flat front view, white opaque exterior. Do not add any other lettering. No transparency yet; the card will receive an exact geometric transparency mask after editing."
+                  },
+                  {
+                      "letter":  "E",
+                      "file":  "Assets/Images/PlayingCardBacks/back_E.png",
+                      "original":  "originals/back_E.png",
+                      "prompt":  "Use case: precise-object-edit. Image 1 is the EDIT TARGET and the master design of a matching deck of poker card backs. Change ONLY the large central uppercase letter \"A\" to the exact single uppercase letter \"E\". Text verbatim: \"E\". Keep the same ivory bold serif font family, apparent cap height, center alignment and visual weight; fit wider letters comfortably within the round navy medallion. Preserve ALL other pixels/design details as closely as possible: navy background, exact gold engraving pattern and frame, ivory rim, black rounded outer outline, ornament positions, dimensions, 1024x1536 portrait canvas, colors, centered card, flat front view, white opaque exterior. Do not add any other lettering. No transparency yet; the card will receive an exact geometric transparency mask after editing."
+                  },
+                  {
+                      "letter":  "F",
+                      "file":  "Assets/Images/PlayingCardBacks/back_F.png",
+                      "original":  "originals/back_F.png",
+                      "prompt":  "Use case: precise-object-edit. Image 1 is the EDIT TARGET and the master design of a matching deck of poker card backs. Change ONLY the large central uppercase letter \"A\" to the exact single uppercase letter \"F\". Text verbatim: \"F\". Keep the same ivory bold serif font family, apparent cap height, center alignment and visual weight; fit wider letters comfortably within the round navy medallion. Preserve ALL other pixels/design details as closely as possible: navy background, exact gold engraving pattern and frame, ivory rim, black rounded outer outline, ornament positions, dimensions, 1024x1536 portrait canvas, colors, centered card, flat front view, white opaque exterior. Do not add any other lettering. No transparency yet; the card will receive an exact geometric transparency mask after editing."
+                  },
+                  {
+                      "letter":  "G",
+                      "file":  "Assets/Images/PlayingCardBacks/back_G.png",
+                      "original":  "originals/back_G.png",
+                      "prompt":  "Use case: precise-object-edit. Image 1 is the EDIT TARGET and the master design of a matching deck of poker card backs. Change ONLY the large central uppercase letter \"A\" to the exact single uppercase letter \"G\". Text verbatim: \"G\". Keep the same ivory bold serif font family, apparent cap height, center alignment and visual weight; fit wider letters comfortably within the round navy medallion. Preserve ALL other pixels/design details as closely as possible: navy background, exact gold engraving pattern and frame, ivory rim, black rounded outer outline, ornament positions, dimensions, 1024x1536 portrait canvas, colors, centered card, flat front view, white opaque exterior. Do not add any other lettering. No transparency yet; the card will receive an exact geometric transparency mask after editing."
+                  },
+                  {
+                      "letter":  "H",
+                      "file":  "Assets/Images/PlayingCardBacks/back_H.png",
+                      "original":  "originals/back_H.png",
+                      "prompt":  "Use case: precise-object-edit. Image 1 is the EDIT TARGET and the master design of a matching deck of poker card backs. Change ONLY the large central uppercase letter \"A\" to the exact single uppercase letter \"H\". Text verbatim: \"H\". Keep the same ivory bold serif font family, apparent cap height, center alignment and visual weight; fit wider letters comfortably within the round navy medallion. Preserve ALL other pixels/design details as closely as possible: navy background, exact gold engraving pattern and frame, ivory rim, black rounded outer outline, ornament positions, dimensions, 1024x1536 portrait canvas, colors, centered card, flat front view, white opaque exterior. Do not add any other lettering. No transparency yet; the card will receive an exact geometric transparency mask after editing."
+                  },
+                  {
+                      "letter":  "I",
+                      "file":  "Assets/Images/PlayingCardBacks/back_I.png",
+                      "original":  "originals/back_I.png",
+                      "prompt":  "Use case: precise-object-edit. Image 1 is the EDIT TARGET and the master design of a matching deck of poker card backs. Change ONLY the large central uppercase letter \"A\" to the exact single uppercase letter \"I\". Text verbatim: \"I\". Keep the same ivory bold serif font family, apparent cap height, center alignment and visual weight; fit wider letters comfortably within the round navy medallion. Preserve ALL other pixels/design details as closely as possible: navy background, exact gold engraving pattern and frame, ivory rim, black rounded outer outline, ornament positions, dimensions, 1024x1536 portrait canvas, colors, centered card, flat front view, white opaque exterior. Do not add any other lettering. No transparency yet; the card will receive an exact geometric transparency mask after editing."
+                  },
+                  {
+                      "letter":  "J",
+                      "file":  "Assets/Images/PlayingCardBacks/back_J.png",
+                      "original":  "originals/back_J.png",
+                      "prompt":  "Use case: precise-object-edit. Image 1 is the EDIT TARGET and the master design of a matching deck of poker card backs. Change ONLY the large central uppercase letter \"A\" to the exact single uppercase letter \"J\". Text verbatim: \"J\". Keep the same ivory bold serif font family, apparent cap height, center alignment and visual weight; fit wider letters comfortably within the round navy medallion. Preserve ALL other pixels/design details as closely as possible: navy background, exact gold engraving pattern and frame, ivory rim, black rounded outer outline, ornament positions, dimensions, 1024x1536 portrait canvas, colors, centered card, flat front view, white opaque exterior. Do not add any other lettering. No transparency yet; the card will receive an exact geometric transparency mask after editing."
+                  },
+                  {
+                      "letter":  "K",
+                      "file":  "Assets/Images/PlayingCardBacks/back_K.png",
+                      "original":  "originals/back_K.png",
+                      "prompt":  "Use case: precise-object-edit. Image 1 is the EDIT TARGET and the master design of a matching deck of poker card backs. Change ONLY the large central uppercase letter \"A\" to the exact single uppercase letter \"K\". Text verbatim: \"K\". Keep the same ivory bold serif font family, apparent cap height, center alignment and visual weight; fit wider letters comfortably within the round navy medallion. Preserve ALL other pixels/design details as closely as possible: navy background, exact gold engraving pattern and frame, ivory rim, black rounded outer outline, ornament positions, dimensions, 1024x1536 portrait canvas, colors, centered card, flat front view, white opaque exterior. Do not add any other lettering. No transparency yet; the card will receive an exact geometric transparency mask after editing."
+                  },
+                  {
+                      "letter":  "L",
+                      "file":  "Assets/Images/PlayingCardBacks/back_L.png",
+                      "original":  "originals/back_L.png",
+                      "prompt":  "Use case: precise-object-edit. Image 1 is the EDIT TARGET and the master design of a matching deck of poker card backs. Change ONLY the large central uppercase letter \"A\" to the exact single uppercase letter \"L\". Text verbatim: \"L\". Keep the same ivory bold serif font family, apparent cap height, center alignment and visual weight; fit wider letters comfortably within the round navy medallion. Preserve ALL other pixels/design details as closely as possible: navy background, exact gold engraving pattern and frame, ivory rim, black rounded outer outline, ornament positions, dimensions, 1024x1536 portrait canvas, colors, centered card, flat front view, white opaque exterior. Do not add any other lettering. No transparency yet; the card will receive an exact geometric transparency mask after editing."
+                  },
+                  {
+                      "letter":  "M",
+                      "file":  "Assets/Images/PlayingCardBacks/back_M.png",
+                      "original":  "originals/back_M.png",
+                      "prompt":  "Use case: precise-object-edit. Image 1 is the EDIT TARGET and the master design of a matching deck of poker card backs. Change ONLY the large central uppercase letter \"A\" to the exact single uppercase letter \"M\". Text verbatim: \"M\". Keep the same ivory bold serif font family, apparent cap height, center alignment and visual weight; fit wider letters comfortably within the round navy medallion. Preserve ALL other pixels/design details as closely as possible: navy background, exact gold engraving pattern and frame, ivory rim, black rounded outer outline, ornament positions, dimensions, 1024x1536 portrait canvas, colors, centered card, flat front view, white opaque exterior. Do not add any other lettering. No transparency yet; the card will receive an exact geometric transparency mask after editing."
+                  },
+                  {
+                      "letter":  "N",
+                      "file":  "Assets/Images/PlayingCardBacks/back_N.png",
+                      "original":  "originals/back_N.png",
+                      "prompt":  "Use case: precise-object-edit. Image 1 is the EDIT TARGET and the master design of a matching deck of poker card backs. Change ONLY the large central uppercase letter \"A\" to the exact single uppercase letter \"N\". Text verbatim: \"N\". Keep the same ivory bold serif font family, apparent cap height, center alignment and visual weight; fit wider letters comfortably within the round navy medallion. Preserve ALL other pixels/design details as closely as possible: navy background, exact gold engraving pattern and frame, ivory rim, black rounded outer outline, ornament positions, dimensions, 1024x1536 portrait canvas, colors, centered card, flat front view, white opaque exterior. Do not add any other lettering. No transparency yet; the card will receive an exact geometric transparency mask after editing."
+                  },
+                  {
+                      "letter":  "O",
+                      "file":  "Assets/Images/PlayingCardBacks/back_O.png",
+                      "original":  "originals/back_O.png",
+                      "prompt":  "Use case: precise-object-edit. Image 1 is the EDIT TARGET and the master design of a matching deck of poker card backs. Change ONLY the large central uppercase letter \"A\" to the exact single uppercase letter \"O\". Text verbatim: \"O\". Keep the same ivory bold serif font family, apparent cap height, center alignment and visual weight; fit wider letters comfortably within the round navy medallion. Preserve ALL other pixels/design details as closely as possible: navy background, exact gold engraving pattern and frame, ivory rim, black rounded outer outline, ornament positions, dimensions, 1024x1536 portrait canvas, colors, centered card, flat front view, white opaque exterior. Do not add any other lettering. No transparency yet; the card will receive an exact geometric transparency mask after editing."
+                  },
+                  {
+                      "letter":  "P",
+                      "file":  "Assets/Images/PlayingCardBacks/back_P.png",
+                      "original":  "originals/back_P.png",
+                      "prompt":  "Use case: precise-object-edit. Image 1 is the EDIT TARGET and the master design of a matching deck of poker card backs. Change ONLY the large central uppercase letter \"A\" to the exact single uppercase letter \"P\". Text verbatim: \"P\". Keep the same ivory bold serif font family, apparent cap height, center alignment and visual weight; fit wider letters comfortably within the round navy medallion. Preserve ALL other pixels/design details as closely as possible: navy background, exact gold engraving pattern and frame, ivory rim, black rounded outer outline, ornament positions, dimensions, 1024x1536 portrait canvas, colors, centered card, flat front view, white opaque exterior. Do not add any other lettering. No transparency yet; the card will receive an exact geometric transparency mask after editing."
+                  }
+              ],
+    "fullBleedCorrection":  {
+                                "Script":  "remove-white-rims.ps1",
+                                "Description":  "Navy and gold artwork expanded to the entire rounded card; ivory rim removed.",
+                                "CardBounds":  [
+                                                   50,
+                                                   75,
+                                                   924,
+                                                   1386
+                                               ],
+                                "ExteriorAlpha":  0,
+                                "Report":  "full-bleed-report.json"
+                            }
+}
