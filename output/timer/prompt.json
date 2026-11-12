@@ -1,0 +1,10 @@
++{
+  "generator": "Built-in image_gen",
+  "prompt": "Use case: stylized-concept. Asset type: crisp circular CLOCK / TIMER icon for a Unity poker memory game UI, matching elegant dark navy and gold playing-card backs. One circular clock, straight orthographic front view, on genuinely transparent background. Square 1024x1024 canvas. Center EXACTLY (512,512). Outer circular clock radius 480 pixels, from x32 to992 and y32 to992. Gold double ring outer rim. Clock face is an opaque solid dark navy circle of radius 350 pixels (x162..862, y162..862). Twelve short simple gold hour ticks just inside the gold rim, and two broad clean ivory/gold clock hands at center pointing to 12 and 4. A small gold center pivot. Bold simplified vector-like flat printed design, readable at 100 pixels, restrained premium casino style. No text, no numerals, no letters, no perspective, no shadow, no glow, no background scene, no extra objects, no tiny ornate detail. IMPORTANT: entire circular clock interior including navy face is fully opaque. Only the space OUTSIDE the outer circular silhouette is transparent. The inner face is a clean true circle so a circular radial darkening overlay can be applied in Unity.",
+  "file": "Assets/Images/UI/clock-timer.png",
+  "normalization": "prepare-assets.ps1",
+  "mask": "Assets/Images/UI/timer-circle-mask.png",
+  "scene": "Assets/Scenes/SampleScene.unity",
+  "gameObject": "Canvas/TimerCounter",
+  "defaultDurationSeconds": 60
+}

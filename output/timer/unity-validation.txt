@@ -1,0 +1,1 @@
+PASS: Unity compiled CountdownTimerView and loaded both sprites. Top-left anchoring verified. Radial360 clockwise shade verified. 25%, 50%, 100%, pause, resume, reset, zero duration and single completion event passed. Clock mipmaps and trilinear filtering verified. Tests ran in a preview scene; the user's open scene was not modified.

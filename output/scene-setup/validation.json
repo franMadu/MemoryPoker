@@ -1,0 +1,48 @@
+﻿{
+    "Result":  "PASS",
+    "Scene":  "Assets/Scenes/SampleScene.unity",
+    "CardViewChildren":  16,
+    "Rows":  4,
+    "Columns":  4,
+    "Sprites":  [
+                    "A",
+                    "B",
+                    "C",
+                    "D",
+                    "E",
+                    "F",
+                    "G",
+                    "H",
+                    "I",
+                    "J",
+                    "K",
+                    "L",
+                    "M",
+                    "N",
+                    "O",
+                    "P"
+                ],
+    "CellSize":  [
+                     92,
+                     138
+                 ],
+    "Spacing":  [
+                    8,
+                    8
+                ],
+    "Padding":  12,
+    "GridExtent":  [
+                       416,
+                       600
+                   ],
+    "PanelSize":  [
+                      600,
+                      600
+                  ],
+    "RenderOrder":  "CardView is the final child of the background in a ScreenSpaceOverlay Canvas",
+    "CanvasReference":  [
+                            800,
+                            900
+                        ],
+    "Verification":  "Saved scene IDs, hierarchy, layout dimensions, and existing sprite GUID/local-ID references checked. In-editor validation requires Unity to refresh."
+}

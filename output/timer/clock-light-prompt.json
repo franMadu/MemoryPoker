@@ -1,0 +1,21 @@
++{
+  "generator": "Built-in image_gen",
+  "prompt": "Use case: precise-object-edit. Image 1 is the edit target: a circular gold and navy clock icon for a Unity game. REMOVE BOTH CLOCK HANDS AND THE CENTRAL GOLD PIVOT COMPLETELY. Replace the central navy face with a perfectly clean flat LIGHT IVORY (#F5EBD3) opaque circular disc, centered exactly in the icon. This empty pale disc is the main timer progress area. Its radius must be exactly 37% of the full square canvas width (diameter 74% of canvas) so a matching circular dark radial fill can cover it completely in Unity. Outside that pale disc keep a narrow dark navy chapter ring with the 12 short gold hour ticks, and keep the existing elegant double gold outer rim. Move the hour ticks into the navy ring if necessary so the pale central disc stays completely empty. Preserve the original centered circle composition and relative outer size: gold outer circle diameter 94% of canvas, small uniform transparent outer margin. Square 1024x1024 composition. Fully opaque inside the clock silhouette, genuine transparent background ONLY outside the clock. Flat crisp vector-like UI icon, high contrast, no shadows, no glow, no texture or gradient in the ivory disc. No hands, no pivot dot, no text, no numbers, no letters, no colored sectors yet. The final icon must be a blank light circular face surrounded by navy hour ring and gold rim.",
+  "file": "Assets/Images/UI/clock-timer.png",
+  "scene": "Assets/Scenes/SampleScene.unity",
+  "fillObject": "Canvas/TimerCounter/ElapsedShade",
+  "fillConfiguration": {
+    "type": "Filled",
+    "method": "Radial360",
+    "origin": "Top",
+    "clockwise": true,
+    "color": "#09162E",
+    "alpha": 1,
+    "fillAmount": 0,
+    "size": [
+      73,
+      73
+    ]
+  },
+  "description": "No hands or center pivot; light ivory face. Dark radial overlay configured for manual Fill Amount control. No code added."
+}

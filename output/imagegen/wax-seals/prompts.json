@@ -1,0 +1,12 @@
+{
+  "tool": "built-in image_gen",
+  "images": [
+    {
+      "file": "Assets/Images/UI/wax-seal-1.png",
+      "prompt": "Use case: stylized-concept. Asset type: polished Unity poker game UI sprite. Generate ONE isolated red sealing-wax seal, perfectly round, viewed exactly straight-on from above, no perspective. Rich glossy crimson lacquered wax with subtle realistic texture, a clean raised circular rim and an embossed large readable serif numeral \"1\" centered, made of the same red wax, defined with highlights and dark red recessed relief. Elegant tactile wax material. Symmetric circular silhouette, no ribbons, no drips extending outside the circle, no extra objects or lettering, no gold, no watermark. Square 1024x1024 canvas, seal centered at (512,512), outer diameter about 860 pixels, fully visible with equal transparent margins. Background truly transparent; interior fully opaque. Soft upper-left studio lighting, no ground plane or cast shadow outside seal. This is the first asset in a matched set of seals numbered 1 and 2."
+    },
+    {
+      "file": "Assets/Images/UI/wax-seal-2.png"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
++{
+  "generator": "Built-in image_gen",
+  "prompt": "Use case: stylized-concept. Asset type: full-screen poker felt background texture for a Unity card game UI. Generate a square high-resolution 2048x2048 image showing ONLY an edge-to-edge professional emerald green poker table felt playing surface, directly overhead, completely flat with no perspective. Refined rich casino green, realistic very fine tightly woven wool felt microtexture, matte and clean, soft uniform lighting, a gently brighter green central playing area and subtly darker green edges. Quiet low-contrast texture so navy-and-gold cards and a gold clock remain readable over it. Entire canvas is opaque green felt with no empty margins. No cards, chips, hands, dice, clock, table rail, wood, border, logos, typography, symbols, markings, decorations, spotlight, strong shadows or dramatic wrinkles. Polished game-ready background, unobtrusive and elegant.",
+  "file": "Assets/Images/UI/poker-felt.png",
+  "scene": "Assets/Scenes/SampleScene.unity",
+  "background": "Canvas/Background",
+  "configuration": "Stretched to fill the canvas, white tint, behind the cards and clock; no gameplay scripts."
+}

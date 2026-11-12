@@ -1,0 +1,249 @@
+﻿{
+    "Result":  "PASS",
+    "Images":  [
+                   {
+                       "File":  "back_A.png.meta",
+                       "Rect":  [
+                                    50,
+                                    75,
+                                    924,
+                                    1386
+                                ],
+                       "Mesh":  "Full Rect",
+                       "Mipmaps":  true,
+                       "Filter":  "Trilinear",
+                       "Compression":  "None",
+                       "IdentityPreserved":  true
+                   },
+                   {
+                       "File":  "back_B.png.meta",
+                       "Rect":  [
+                                    50,
+                                    75,
+                                    924,
+                                    1386
+                                ],
+                       "Mesh":  "Full Rect",
+                       "Mipmaps":  true,
+                       "Filter":  "Trilinear",
+                       "Compression":  "None",
+                       "IdentityPreserved":  true
+                   },
+                   {
+                       "File":  "back_blank.png.meta",
+                       "Rect":  [
+                                    50,
+                                    75,
+                                    924,
+                                    1386
+                                ],
+                       "Mesh":  "Full Rect",
+                       "Mipmaps":  true,
+                       "Filter":  "Trilinear",
+                       "Compression":  "None",
+                       "IdentityPreserved":  true
+                   },
+                   {
+                       "File":  "back_C.png.meta",
+                       "Rect":  [
+                                    50,
+                                    75,
+                                    924,
+                                    1386
+                                ],
+                       "Mesh":  "Full Rect",
+                       "Mipmaps":  true,
+                       "Filter":  "Trilinear",
+                       "Compression":  "None",
+                       "IdentityPreserved":  true
+                   },
+                   {
+                       "File":  "back_D.png.meta",
+                       "Rect":  [
+                                    50,
+                                    75,
+                                    924,
+                                    1386
+                                ],
+                       "Mesh":  "Full Rect",
+                       "Mipmaps":  true,
+                       "Filter":  "Trilinear",
+                       "Compression":  "None",
+                       "IdentityPreserved":  true
+                   },
+                   {
+                       "File":  "back_E.png.meta",
+                       "Rect":  [
+                                    50,
+                                    75,
+                                    924,
+                                    1386
+                                ],
+                       "Mesh":  "Full Rect",
+                       "Mipmaps":  true,
+                       "Filter":  "Trilinear",
+                       "Compression":  "None",
+                       "IdentityPreserved":  true
+                   },
+                   {
+                       "File":  "back_F.png.meta",
+                       "Rect":  [
+                                    50,
+                                    75,
+                                    924,
+                                    1386
+                                ],
+                       "Mesh":  "Full Rect",
+                       "Mipmaps":  true,
+                       "Filter":  "Trilinear",
+                       "Compression":  "None",
+                       "IdentityPreserved":  true
+                   },
+                   {
+                       "File":  "back_G.png.meta",
+                       "Rect":  [
+                                    50,
+                                    75,
+                                    924,
+                                    1386
+                                ],
+                       "Mesh":  "Full Rect",
+                       "Mipmaps":  true,
+                       "Filter":  "Trilinear",
+                       "Compression":  "None",
+                       "IdentityPreserved":  true
+                   },
+                   {
+                       "File":  "back_H.png.meta",
+                       "Rect":  [
+                                    50,
+                                    75,
+                                    924,
+                                    1386
+                                ],
+                       "Mesh":  "Full Rect",
+                       "Mipmaps":  true,
+                       "Filter":  "Trilinear",
+                       "Compression":  "None",
+                       "IdentityPreserved":  true
+                   },
+                   {
+                       "File":  "back_I.png.meta",
+                       "Rect":  [
+                                    50,
+                                    75,
+                                    924,
+                                    1386
+                                ],
+                       "Mesh":  "Full Rect",
+                       "Mipmaps":  true,
+                       "Filter":  "Trilinear",
+                       "Compression":  "None",
+                       "IdentityPreserved":  true
+                   },
+                   {
+                       "File":  "back_J.png.meta",
+                       "Rect":  [
+                                    50,
+                                    75,
+                                    924,
+                                    1386
+                                ],
+                       "Mesh":  "Full Rect",
+                       "Mipmaps":  true,
+                       "Filter":  "Trilinear",
+                       "Compression":  "None",
+                       "IdentityPreserved":  true
+                   },
+                   {
+                       "File":  "back_K.png.meta",
+                       "Rect":  [
+                                    50,
+                                    75,
+                                    924,
+                                    1386
+                                ],
+                       "Mesh":  "Full Rect",
+                       "Mipmaps":  true,
+                       "Filter":  "Trilinear",
+                       "Compression":  "None",
+                       "IdentityPreserved":  true
+                   },
+                   {
+                       "File":  "back_L.png.meta",
+                       "Rect":  [
+                                    50,
+                                    75,
+                                    924,
+                                    1386
+                                ],
+                       "Mesh":  "Full Rect",
+                       "Mipmaps":  true,
+                       "Filter":  "Trilinear",
+                       "Compression":  "None",
+                       "IdentityPreserved":  true
+                   },
+                   {
+                       "File":  "back_M.png.meta",
+                       "Rect":  [
+                                    50,
+                                    75,
+                                    924,
+                                    1386
+                                ],
+                       "Mesh":  "Full Rect",
+                       "Mipmaps":  true,
+                       "Filter":  "Trilinear",
+                       "Compression":  "None",
+                       "IdentityPreserved":  true
+                   },
+                   {
+                       "File":  "back_N.png.meta",
+                       "Rect":  [
+                                    50,
+                                    75,
+                                    924,
+                                    1386
+                                ],
+                       "Mesh":  "Full Rect",
+                       "Mipmaps":  true,
+                       "Filter":  "Trilinear",
+                       "Compression":  "None",
+                       "IdentityPreserved":  true
+                   },
+                   {
+                       "File":  "back_O.png.meta",
+                       "Rect":  [
+                                    50,
+                                    75,
+                                    924,
+                                    1386
+                                ],
+                       "Mesh":  "Full Rect",
+                       "Mipmaps":  true,
+                       "Filter":  "Trilinear",
+                       "Compression":  "None",
+                       "IdentityPreserved":  true
+                   },
+                   {
+                       "File":  "back_P.png.meta",
+                       "Rect":  [
+                                    50,
+                                    75,
+                                    924,
+                                    1386
+                                ],
+                       "Mesh":  "Full Rect",
+                       "Mipmaps":  true,
+                       "Filter":  "Trilinear",
+                       "Compression":  "None",
+                       "IdentityPreserved":  true
+                   }
+               ],
+    "VisibleCardViewCards":  16,
+    "VisibleCardVisorCards":  3,
+    "VisualValidation":  "Captured and inspected the live Unity Game view before and after refreshing the modified texture importers.",
+    "Before":  "output/scene-review/game-before.png",
+    "After":  "output/scene-review/game-after.png",
+    "SceneChanged":  false
+}

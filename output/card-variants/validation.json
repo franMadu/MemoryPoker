@@ -1,0 +1,41 @@
+{
+  "result": "PASS",
+  "variantCount": 52,
+  "basePrefab": "Assets/Prefab/Card.prefab",
+  "variantDirectory": "Assets/Prefab/Cards",
+  "perSuit": {
+    "Spades": 13,
+    "Hearts": 13,
+    "Diamonds": 13,
+    "Clubs": 13
+  },
+  "values": {
+    "A": 1,
+    "J": 11,
+    "Q": 12,
+    "K": 13
+  },
+  "overrides": [
+    "name",
+    "suit",
+    "value",
+    "cardImage",
+    "Image.sprite"
+  ],
+  "inherited": [
+    "RectTransform size, scale and positioning",
+    "components",
+    "hierarchy",
+    "other visual settings"
+  ],
+  "checks": [
+    "52 distinct suit/value combinations",
+    "52 unique asset GUIDs",
+    "52 links to the same base prefab",
+    "matching data and visual sprite references",
+    "no structure or transform overrides"
+  ],
+  "spriteImportCorrection": "hearts_Q had no sprite subasset; imported it as a Single sprite.",
+  "baseVisualCorrection": "Image.preserveAspect enabled on the base prefab so all variants inherit correct image proportions.",
+  "gameplayCodeAdded": false
+}

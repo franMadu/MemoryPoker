@@ -1,0 +1,33 @@
+{
+  "result": "PASS",
+  "scene": "Assets/Scenes/SampleScene.unity",
+  "object": "CardVisor",
+  "columns": 3,
+  "rows": 1,
+  "cards": [
+    "A",
+    "B",
+    "C"
+  ],
+  "cellSize": [
+    92,
+    138
+  ],
+  "padding": 6,
+  "spacing": [
+    8,
+    8
+  ],
+  "contentExtent": [
+    304,
+    150
+  ],
+  "panelSize": [
+    600,
+    150
+  ],
+  "preserveAspect": true,
+  "CardViewUnchanged": true,
+  "uniqueSceneObjects": 116,
+  "verification": "Saved scene references and hierarchy checked; card cells fit inside CardVisor. Unity in-editor rendering not run."
+}

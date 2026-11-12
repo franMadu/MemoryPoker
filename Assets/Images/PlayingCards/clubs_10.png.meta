@@ -113,9 +113,9 @@ TextureImporter:
       name: clubs_10_0
       rect:
         serializedVersion: 2
-        x: 2
+        x: 0
         y: 0
-        width: 1022
+        width: 1024
         height: 1536
       alignment: 0
       pivot: {x: 0, y: 0}
