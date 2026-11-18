@@ -88,4 +88,3 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8efe6c6d52bc81f4c9997e916a22d495, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BackCard
-  cardImage: {fileID: 0}

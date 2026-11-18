@@ -1,0 +1,8 @@
+WaitingToStart at 0
+Memorizing at 3,000207
+WaitingForCommunityCards at 23,00058
+Selecting at 28,00102
+WaitingToStart at 0
+Memorizing at 3,000525
+WaitingForCommunityCards at 23,00197
+Selecting at 28,0024
