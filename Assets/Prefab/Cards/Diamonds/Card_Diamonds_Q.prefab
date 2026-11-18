@@ -38,3 +38,14 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 8011111610800928775, guid: 67250f7e800dac145925672bcf6d244d, type: 3}
   m_PrefabInstance: {fileID: 100100001}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &100100002 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4849393311564969818, guid: 67250f7e800dac145925672bcf6d244d, type: 3}
+  m_PrefabInstance: {fileID: 100100001}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100100003}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 281f5906da613ba47ba9155b93878ccf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Card.Card

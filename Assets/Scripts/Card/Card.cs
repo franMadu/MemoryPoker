@@ -8,5 +8,7 @@ namespace Card
         [SerializeField] private SuitEnum suit;
         [SerializeField] private int value;
         [SerializeField] private Sprite cardImage;
+
+        public bool InPlay { get; set; }
     }
 }

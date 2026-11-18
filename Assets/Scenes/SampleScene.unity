@@ -367,60 +367,61 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2c5008d904da8b642b6d2b0ca303532b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Game.CardGeneratorController
-  cardContainer: {fileID: 712582312}
+  cardContainer: {fileID: 712582313}
   cardList:
-  - {fileID: 100100003, guid: 8ad4c0c2bce14a19a837a58f6abbc8f8, type: 3}
-  - {fileID: 100100003, guid: 1d042d43eb3741f7b6dacf030716aa79, type: 3}
-  - {fileID: 100100003, guid: 338d59433d5943e79419d967ed5afb5e, type: 3}
-  - {fileID: 100100003, guid: d6eb671b7ead40ac8f33c955cc2f459e, type: 3}
-  - {fileID: 100100003, guid: a91eeb52793645cfac7b6a9486b4919f, type: 3}
-  - {fileID: 100100003, guid: 48659b76dff54e1ab206fcee87f14709, type: 3}
-  - {fileID: 100100003, guid: 2487cf96e28c4c028580a195c01f40b1, type: 3}
-  - {fileID: 100100003, guid: a788552184bd4dec8c57fa34d275ee17, type: 3}
-  - {fileID: 100100003, guid: 873bba22452e4a88a5f4fa71fa04389c, type: 3}
-  - {fileID: 100100003, guid: 947645410da942e29fbc51cb4835c420, type: 3}
-  - {fileID: 100100003, guid: cb582026f7bc43d7afb180ced0b670dd, type: 3}
-  - {fileID: 100100003, guid: f59d425ecfa74b6fa721ad5a7b444099, type: 3}
-  - {fileID: 100100003, guid: 144c23bbb74841579d5c0d131595ebb1, type: 3}
-  - {fileID: 100100003, guid: a8c8ca77504a4ff8bad1312906325d66, type: 3}
-  - {fileID: 100100003, guid: 49d4edac22f148e08530da9a50b45094, type: 3}
-  - {fileID: 100100003, guid: 5ff0a4a9faf542d8a7b8ab6d413f5663, type: 3}
-  - {fileID: 100100003, guid: f2af7679fc64483191f2a4a1016a45a4, type: 3}
-  - {fileID: 100100003, guid: e6d7e18acda94ae78b9ac194d480c57b, type: 3}
-  - {fileID: 100100003, guid: 5dcf9941818c4958ab9ab47758108fa5, type: 3}
-  - {fileID: 100100003, guid: a57a6835066642ef83f3fdbb04a8fbdd, type: 3}
-  - {fileID: 100100003, guid: 973a7a0ed83e4b1da771944bc891731b, type: 3}
-  - {fileID: 100100003, guid: 4c3cc39d02804dc0a25f114d749402be, type: 3}
-  - {fileID: 100100003, guid: 97b87753161f46e7be13cb31a8db38e6, type: 3}
-  - {fileID: 100100003, guid: 0e330d39f7f040e8826fcf70b8e988fd, type: 3}
-  - {fileID: 100100003, guid: 8c11f0184aec4c7f94cef1836f16cccd, type: 3}
-  - {fileID: 100100003, guid: 81586120b40d4bc189adb23f98b37e04, type: 3}
-  - {fileID: 100100003, guid: b435968b63634766a2c30a9d48e8bedd, type: 3}
-  - {fileID: 100100003, guid: 435078a9dd4b485ab7a0b4b35c462e26, type: 3}
-  - {fileID: 100100003, guid: e8d45a88c0ad4621b05eb81fef679035, type: 3}
-  - {fileID: 100100003, guid: 024ae55550ab45c08b3dfd49049b61f6, type: 3}
-  - {fileID: 100100003, guid: 2ca0127db86e482a92e99f844e7c1c88, type: 3}
-  - {fileID: 100100003, guid: e866c3bcb40f4804885812f2a9a9aee3, type: 3}
-  - {fileID: 100100003, guid: 71f9cc40ade8451f912087259f3cbe7d, type: 3}
-  - {fileID: 100100003, guid: 1d05a84c83494505b5e2b23940a19237, type: 3}
-  - {fileID: 100100003, guid: 9e7b509fbc4846f5923c3b223dfcb79e, type: 3}
-  - {fileID: 100100003, guid: f6c14da649ea40b89e3eb84009d7fc91, type: 3}
-  - {fileID: 100100003, guid: 3944c2ba98bd418f99d69e050798ee90, type: 3}
-  - {fileID: 100100003, guid: 7edd13cd52fd4b2580f7311123628b87, type: 3}
-  - {fileID: 100100003, guid: 19bb45d0c5374b8ba285bc9cff487b20, type: 3}
-  - {fileID: 100100003, guid: c10c0c403a7948fa85d3d3280fe74edd, type: 3}
-  - {fileID: 100100003, guid: bf0a32eff3944d31a8210ea65d74d0cd, type: 3}
-  - {fileID: 100100003, guid: bbef6572789749969581189316b9063b, type: 3}
-  - {fileID: 100100003, guid: fdd277bbd5244c16815ef4e3b09399cd, type: 3}
-  - {fileID: 100100003, guid: 883c068451814ee685bf1cd2d78f5f5a, type: 3}
-  - {fileID: 100100003, guid: 513beabf457b4af9a0707312db716ea3, type: 3}
-  - {fileID: 100100003, guid: 93fd0dbff73047acbb24e1fd9fede4e9, type: 3}
-  - {fileID: 100100003, guid: d070dfece0554e82ba07d16000833eb9, type: 3}
-  - {fileID: 100100003, guid: 1c864dda3975430f86f588e5ffb61911, type: 3}
-  - {fileID: 100100003, guid: 0587ba94f67c4159a64d31e4a84d4240, type: 3}
-  - {fileID: 100100003, guid: 1e9f7a1450584d54bd682725bb86cad1, type: 3}
-  - {fileID: 100100003, guid: 0d64c2bb98e44b06b7d6bc7ef0319bd9, type: 3}
-  - {fileID: 100100003, guid: 7e34ec98c76b4ef09e1ebf6b179454c8, type: 3}
+  - {fileID: 100100002, guid: bf0a32eff3944d31a8210ea65d74d0cd, type: 3}
+  - {fileID: 100100002, guid: bbef6572789749969581189316b9063b, type: 3}
+  - {fileID: 100100002, guid: fdd277bbd5244c16815ef4e3b09399cd, type: 3}
+  - {fileID: 100100002, guid: 883c068451814ee685bf1cd2d78f5f5a, type: 3}
+  - {fileID: 100100002, guid: 513beabf457b4af9a0707312db716ea3, type: 3}
+  - {fileID: 100100002, guid: 93fd0dbff73047acbb24e1fd9fede4e9, type: 3}
+  - {fileID: 100100002, guid: d070dfece0554e82ba07d16000833eb9, type: 3}
+  - {fileID: 100100002, guid: 1c864dda3975430f86f588e5ffb61911, type: 3}
+  - {fileID: 100100002, guid: 0587ba94f67c4159a64d31e4a84d4240, type: 3}
+  - {fileID: 100100002, guid: c10c0c403a7948fa85d3d3280fe74edd, type: 3}
+  - {fileID: 100100002, guid: 1e9f7a1450584d54bd682725bb86cad1, type: 3}
+  - {fileID: 100100002, guid: 7e34ec98c76b4ef09e1ebf6b179454c8, type: 3}
+  - {fileID: 100100002, guid: 0d64c2bb98e44b06b7d6bc7ef0319bd9, type: 3}
+  - {fileID: 100100002, guid: 435078a9dd4b485ab7a0b4b35c462e26, type: 3}
+  - {fileID: 100100002, guid: e8d45a88c0ad4621b05eb81fef679035, type: 3}
+  - {fileID: 100100002, guid: 024ae55550ab45c08b3dfd49049b61f6, type: 3}
+  - {fileID: 100100002, guid: 2ca0127db86e482a92e99f844e7c1c88, type: 3}
+  - {fileID: 100100002, guid: e866c3bcb40f4804885812f2a9a9aee3, type: 3}
+  - {fileID: 100100002, guid: 71f9cc40ade8451f912087259f3cbe7d, type: 3}
+  - {fileID: 100100002, guid: 1d05a84c83494505b5e2b23940a19237, type: 3}
+  - {fileID: 100100002, guid: 9e7b509fbc4846f5923c3b223dfcb79e, type: 3}
+  - {fileID: 100100002, guid: f6c14da649ea40b89e3eb84009d7fc91, type: 3}
+  - {fileID: 100100002, guid: b435968b63634766a2c30a9d48e8bedd, type: 3}
+  - {fileID: 100100002, guid: 3944c2ba98bd418f99d69e050798ee90, type: 3}
+  - {fileID: 100100002, guid: 19bb45d0c5374b8ba285bc9cff487b20, type: 3}
+  - {fileID: 100100002, guid: 7edd13cd52fd4b2580f7311123628b87, type: 3}
+  - {fileID: 100100002, guid: 49d4edac22f148e08530da9a50b45094, type: 3}
+  - {fileID: 100100002, guid: 5ff0a4a9faf542d8a7b8ab6d413f5663, type: 3}
+  - {fileID: 100100002, guid: f2af7679fc64483191f2a4a1016a45a4, type: 3}
+  - {fileID: 100100002, guid: e6d7e18acda94ae78b9ac194d480c57b, type: 3}
+  - {fileID: 100100002, guid: 5dcf9941818c4958ab9ab47758108fa5, type: 3}
+  - {fileID: 100100002, guid: a57a6835066642ef83f3fdbb04a8fbdd, type: 3}
+  - {fileID: 100100002, guid: 973a7a0ed83e4b1da771944bc891731b, type: 3}
+  - {fileID: 100100002, guid: 4c3cc39d02804dc0a25f114d749402be, type: 3}
+  - {fileID: 100100002, guid: 97b87753161f46e7be13cb31a8db38e6, type: 3}
+  - {fileID: 100100002, guid: a8c8ca77504a4ff8bad1312906325d66, type: 3}
+  - {fileID: 100100002, guid: 0e330d39f7f040e8826fcf70b8e988fd, type: 3}
+  - {fileID: 100100002, guid: 81586120b40d4bc189adb23f98b37e04, type: 3}
+  - {fileID: 100100002, guid: 8c11f0184aec4c7f94cef1836f16cccd, type: 3}
+  - {fileID: 100100002, guid: 1d042d43eb3741f7b6dacf030716aa79, type: 3}
+  - {fileID: 100100002, guid: 338d59433d5943e79419d967ed5afb5e, type: 3}
+  - {fileID: 100100002, guid: d6eb671b7ead40ac8f33c955cc2f459e, type: 3}
+  - {fileID: 100100002, guid: a91eeb52793645cfac7b6a9486b4919f, type: 3}
+  - {fileID: 100100002, guid: 48659b76dff54e1ab206fcee87f14709, type: 3}
+  - {fileID: 100100002, guid: 2487cf96e28c4c028580a195c01f40b1, type: 3}
+  - {fileID: 100100002, guid: a788552184bd4dec8c57fa34d275ee17, type: 3}
+  - {fileID: 100100002, guid: 873bba22452e4a88a5f4fa71fa04389c, type: 3}
+  - {fileID: 100100002, guid: 947645410da942e29fbc51cb4835c420, type: 3}
+  - {fileID: 100100002, guid: 8ad4c0c2bce14a19a837a58f6abbc8f8, type: 3}
+  - {fileID: 100100002, guid: cb582026f7bc43d7afb180ced0b670dd, type: 3}
+  - {fileID: 100100002, guid: 144c23bbb74841579d5c0d131595ebb1, type: 3}
+  - {fileID: 100100002, guid: f59d425ecfa74b6fa721ad5a7b444099, type: 3}
+  memoryCardContainer: {fileID: 2071761267}
 --- !u!1001 &239277920
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1141,10 +1142,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.CanvasScaler
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 900}
+  m_ReferenceResolution: {x: 424, y: 770}
   m_ScreenMatchMode: 1
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -1244,11 +1245,11 @@ RectTransform:
   - {fileID: 156451714}
   m_Father: {fileID: 1320286330}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0}
-  m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 0, y: 70.9}
-  m_SizeDelta: {x: 600, y: 600}
-  m_Pivot: {x: 0.5, y: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: -81}
+  m_SizeDelta: {x: 392, y: 576}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &683252396
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1300,10 +1301,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.GridLayoutGroup
   m_Padding:
-    m_Left: 12
-    m_Right: 12
-    m_Top: 12
-    m_Bottom: 12
+    m_Left: 0
+    m_Right: 0
+    m_Top: 0
+    m_Bottom: 0
   m_ChildAlignment: 4
   m_StartCorner: 0
   m_StartAxis: 0
@@ -1344,11 +1345,11 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1320286330}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0}
-  m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 0, y: 70.9}
-  m_SizeDelta: {x: 600, y: 600}
-  m_Pivot: {x: 0.5, y: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: -81}
+  m_SizeDelta: {x: 392, y: 576}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &712582314
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1362,10 +1363,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.GridLayoutGroup
   m_Padding:
-    m_Left: 12
-    m_Right: 12
-    m_Top: 12
-    m_Bottom: 12
+    m_Left: 0
+    m_Right: 0
+    m_Top: 0
+    m_Bottom: 0
   m_ChildAlignment: 4
   m_StartCorner: 0
   m_StartAxis: 0
@@ -1876,6 +1877,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2101873260}
+  - {fileID: 2071761267}
   - {fileID: 683252395}
   - {fileID: 712582313}
   m_Father: {fileID: 638637166}
@@ -2658,6 +2660,106 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 176188690130642924, guid: ac102be273cea54f11b895fa8f61cc5e, type: 3}
   m_PrefabInstance: {fileID: 2031439683}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2071761266
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2071761267}
+  - component: {fileID: 2071761270}
+  - component: {fileID: 2071761269}
+  - component: {fileID: 2071761268}
+  m_Layer: 5
+  m_Name: CardFrontVisor
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &2071761267
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2071761266}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1320286330}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 300}
+  m_SizeDelta: {x: 292, y: 138}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &2071761268
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2071761266}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.GridLayoutGroup
+  m_Padding:
+    m_Left: 0
+    m_Right: 0
+    m_Top: 0
+    m_Bottom: 0
+  m_ChildAlignment: 4
+  m_StartCorner: 0
+  m_StartAxis: 0
+  m_CellSize: {x: 92, y: 138}
+  m_Spacing: {x: 8, y: 8}
+  m_Constraint: 1
+  m_ConstraintCount: 3
+--- !u!114 &2071761269
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2071761266}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 0
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 0}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &2071761270
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2071761266}
+  m_CullTransparentMesh: 1
 --- !u!1001 &2091273772
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2773,7 +2875,7 @@ GameObject:
   - component: {fileID: 2101873261}
   - component: {fileID: 2101873263}
   m_Layer: 5
-  m_Name: CardVisor
+  m_Name: CardBackVisor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2796,11 +2898,11 @@ RectTransform:
   - {fileID: 2000001021}
   m_Father: {fileID: 1320286330}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 1}
-  m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -17.2}
-  m_SizeDelta: {x: 600, y: 150}
-  m_Pivot: {x: 0.5, y: 1}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 300}
+  m_SizeDelta: {x: 292, y: 138}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2101873261
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2852,10 +2954,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.GridLayoutGroup
   m_Padding:
-    m_Left: 6
-    m_Right: 6
-    m_Top: 6
-    m_Bottom: 6
+    m_Left: 0
+    m_Right: 0
+    m_Top: 0
+    m_Bottom: 0
   m_ChildAlignment: 4
   m_StartCorner: 0
   m_StartAxis: 0
